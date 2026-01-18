@@ -88,6 +88,62 @@ pip install dbfread lxml openai pymupdf
 - **.NET 8.0 SDK** - Required to build the RepxPreview tool
 - **DevExpress Reporting v24.2** - DevExpress NuGet packages (requires license)
 
+### FoxPro Runtime (for Hybrid Approach)
+
+The hybrid approach requires Visual FoxPro 9 runtime to execute the `export_frt_to_json.prg` script.
+
+#### Option 1: VFP9 Runtime Files (Recommended)
+
+If you have access to VFP9 runtime files, copy these to a folder (e.g., `C:\VFP9Runtime\`):
+
+| File | Description |
+|------|-------------|
+| `vfp9.exe` | Main executable |
+| `vfp9r.dll` | Runtime library |
+| `vfp9renu.dll` | English resources |
+| `gdiplus.dll` | Graphics library |
+| `msvcr71.dll` | C runtime |
+
+Add the folder to your PATH:
+
+```powershell
+# Add to PATH (PowerShell - current session)
+$env:PATH += ";C:\VFP9Runtime"
+
+# Add to PATH (permanently - run as Admin)
+[Environment]::SetEnvironmentVariable("PATH", $env:PATH + ";C:\VFP9Runtime", "Machine")
+```
+
+#### Option 2: Full Visual FoxPro 9 Installation
+
+If you have a Visual FoxPro 9 license:
+1. Install Visual FoxPro 9.0 SP2
+2. The executable is typically at `C:\Program Files (x86)\Microsoft Visual FoxPro 9\vfp9.exe`
+
+#### Option 3: Use Existing FoxPro Installation
+
+If you have FoxPro installed elsewhere, update the batch script path:
+
+```batch
+REM In convert_hybrid.bat, change:
+SET VFP_PATH=C:\Path\To\Your\vfp9.exe
+```
+
+#### Verifying Installation
+
+```powershell
+# Check if VFP9 is available
+vfp9.exe -? 
+
+# Or test with the export script
+vfp9.exe foxpro\export_frt_to_json.prg "test.frx" "test.json"
+```
+
+> **Note:** Visual FoxPro 9 was discontinued by Microsoft in 2015. The runtime files may be available from:
+> - Existing VFP9 installations in your organization
+> - MSDN subscriptions (if you have access)
+> - VFP community resources (check licensing requirements)
+
 Build the preview tool:
 
 ```bash

@@ -1,0 +1,13 @@
+* FoxPro configuration file for export script
+* Place in foxpro folder
+
+* Suppress dialogs
+_SCREEN.Visible = .F.
+
+* Set path
+SET PATH TO foxpro
+
+* Quiet mode
+SET TALK OFF
+SET NOTIFY OFF
+SET SAFETY OFF

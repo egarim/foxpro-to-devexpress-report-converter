@@ -12,7 +12,7 @@ REM ============================================================================
 setlocal enabledelayedexpansion
 
 REM Configuration - UPDATE THESE PATHS IF NEEDED
-SET VFP_PATH=vfp9.exe
+SET VFP_PATH="C:\Program Files (x86)\Microsoft Visual FoxPro 9\vfp9.exe"
 SET PYTHON_PATH=.venv\Scripts\python.exe
 
 REM Check arguments

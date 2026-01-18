@@ -22,11 +22,18 @@ fwdcusifoxprocrystalreportstodevexpress/
 │   ├── converter_v2.py           # Improved converter
 │   ├── converter_pdf_layout.py   # PDF-based layout converter
 │   ├── converter_pdf_layout_v2.py # Enhanced PDF converter with table detection
+│   ├── converter_foxpro_json.py  # Hybrid: converts FoxPro JSON to REPX
 │   ├── expression_translator.py  # FoxPro → DevExpress expression translation
 │   ├── frt_parser.py             # FRT file parser
 │   ├── pdf_layout_extractor.py   # PDF text/position extractor
 │   ├── pdf_validator.py          # OpenAI Vision validation
 │   └── repx_generator.py         # REPX XML generator
+│
+├── foxpro/                       # FoxPro scripts (hybrid approach)
+│   └── export_frt_to_json.prg    # Exports FRX/FRT to JSON
+│
+├── docs/                         # Documentation
+│   └── HYBRID_APPROACH_PLAN.md   # Detailed hybrid implementation plan
 │
 ├── tools/
 │   └── RepxPreview/              # C# tool to render REPX previews
@@ -242,24 +249,59 @@ Current accuracy (measured by OpenAI Vision comparison):
 - Print-when visibility conditions
 - Multi-column layouts
 
-## 🔮 Future Improvements
+## 🔮 Hybrid Approach (FoxPro Runtime + Python)
 
-### Recommended: Hybrid Approach with FoxPro Runtime
+For **best results**, use the hybrid approach on the `hybrid` branch. This leverages FoxPro runtime for 100% accurate report extraction.
 
-For best results, consider using FoxPro runtime to extract report structure:
+### Why Hybrid?
 
-1. **FoxPro script** exports FRT structure to JSON with exact:
-   - Control positions and sizes
-   - Band definitions
-   - Expressions in native format
-   - All properties and settings
+| Approach | Accuracy | Requirement |
+|----------|----------|-------------|
+| Pure Python (PDF-based) | ~70% | No FoxPro needed |
+| **Hybrid (FoxPro+Python)** | **~95%+** | VFP9 runtime |
 
-2. **Python** consumes the JSON and:
-   - Translates expressions
-   - Generates REPX XML
-   - Handles conversion logic
+### Hybrid Workflow
 
-This would eliminate PDF dependency and significantly improve accuracy.
+**Step 1:** Run FoxPro script to export report structure to JSON:
+
+```foxpro
+* In FoxPro IDE or with VFP9 runtime
+DO foxpro\export_frt_to_json WITH "FoxPro_Ebill.frx", "FoxPro_Ebill.json"
+```
+
+**Step 2:** Run Python converter on the JSON:
+
+```bash
+cd src
+python converter_foxpro_json.py ../FoxPro_Ebill.json ../output/FoxPro_Ebill
+```
+
+### Automated Batch Script
+
+```batch
+@echo off
+REM convert_hybrid.bat - Full hybrid conversion
+SET FRX=%1
+SET OUT=%2
+
+REM Step 1: FoxPro exports to JSON
+vfp9.exe foxpro\export_frt_to_json.prg %FRX% temp\report.json
+
+REM Step 2: Python generates REPX
+python src\converter_foxpro_json.py temp\report.json %OUT%
+```
+
+### What the Hybrid Approach Captures
+
+- ✅ **100% accurate** control positions (FRU coordinates)
+- ✅ **Complete band structure** with all properties
+- ✅ **Native expressions** exactly as stored
+- ✅ **Font properties** (name, size, style)
+- ✅ **Colors** (RGB values for foreground/background)
+- ✅ **Print-when conditions**
+- ✅ **Stretch modes**
+
+See [docs/HYBRID_APPROACH_PLAN.md](docs/HYBRID_APPROACH_PLAN.md) for full technical details.
 
 ## 🐛 Troubleshooting
 

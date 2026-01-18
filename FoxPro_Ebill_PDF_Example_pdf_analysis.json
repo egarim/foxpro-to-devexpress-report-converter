@@ -1,0 +1,126 @@
+{
+  "header": {
+    "company_name": "GATEWAY SERVICES CDD",
+    "logo_position": "top-left",
+    "address_position": "below company name",
+    "contact_position": "below address"
+  },
+  "sections": [
+    "Account Information",
+    "Billing Details",
+    "Usage Summary",
+    "Messages",
+    "Payment Instructions",
+    "Return Slip",
+    "Contact Information"
+  ],
+  "fields": [
+    {
+      "name": "SERVICE ADDRESS",
+      "position": "top-left",
+      "data_type": "text",
+      "format": "none"
+    },
+    {
+      "name": "BILLING DATE",
+      "position": "top-center",
+      "data_type": "date",
+      "format": "MM/DD/YYYY"
+    },
+    {
+      "name": "ACCOUNT NUMBER",
+      "position": "center",
+      "data_type": "text",
+      "format": "none"
+    },
+    {
+      "name": "DUE DATE",
+      "position": "top-right",
+      "data_type": "date",
+      "format": "MM/DD/YYYY"
+    },
+    {
+      "name": "AMOUNT DUE",
+      "position": "top-right",
+      "data_type": "currency",
+      "format": "$0.00"
+    },
+    {
+      "name": "PREVIOUS BALANCE",
+      "position": "bottom-left",
+      "data_type": "currency",
+      "format": "$0.00"
+    },
+    {
+      "name": "CURRENT AMOUNT",
+      "position": "bottom-center",
+      "data_type": "currency",
+      "format": "$0.00"
+    },
+    {
+      "name": "TOTAL",
+      "position": "bottom-right",
+      "data_type": "currency",
+      "format": "$0.00"
+    },
+    {
+      "name": "ADDRESS",
+      "position": "bottom-left",
+      "data_type": "text",
+      "format": "uppercase"
+    },
+    {
+      "name": "BILL DATE",
+      "position": "return-slip-center",
+      "data_type": "date",
+      "format": "MM/DD/YYYY"
+    },
+    {
+      "name": "SERVICE ID",
+      "position": "return-slip-center",
+      "data_type": "text",
+      "format": "none"
+    },
+    {
+      "name": "ACCOUNT NO.",
+      "position": "return-slip-center",
+      "data_type": "text",
+      "format": "none"
+    },
+    {
+      "name": "DUE DATE",
+      "position": "return-slip-center",
+      "data_type": "date",
+      "format": "MM/DD/YYYY"
+    },
+    {
+      "name": "AMOUNT DUE",
+      "position": "return-slip-center",
+      "data_type": "currency",
+      "format": "$0.00"
+    },
+    {
+      "name": "PAYMENT AMOUNT",
+      "position": "return-slip-center",
+      "data_type": "currency",
+      "format": "$0.00"
+    }
+  ],
+  "tables": [
+    {
+      "headers": [
+        "BILLING DATE",
+        "SERVICE",
+        "SERVICE DATES",
+        "METER READING",
+        "USAGE",
+        "AMOUNT"
+      ]
+    }
+  ],
+  "layout_notes": {
+    "margins": "standard",
+    "spacing": "uniform",
+    "alignment": "left-aligned for text, right-aligned for numbers"
+  }
+}

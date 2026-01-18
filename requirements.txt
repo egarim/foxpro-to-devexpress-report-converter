@@ -1,0 +1,14 @@
+# FoxPro FRT to DevExpress REPX Converter
+# Python Requirements
+
+# FRT/DBF file parsing
+dbfread>=2.0.7
+
+# XML generation for REPX files
+lxml>=5.0.0
+
+# PDF parsing and text extraction
+pymupdf>=1.24.0
+
+# OpenAI API for vision-based validation (optional)
+openai>=1.0.0

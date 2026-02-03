@@ -33,550 +33,539 @@
         <Item28 Ref="30" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line27" LocationFloat="392, 762" SizeF="2, 262" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
         <Item29 Ref="31" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line28" LocationFloat="44, 499" SizeF="725, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
         <Item30 Ref="32" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line29" LocationFloat="785, 762" SizeF="2, 262" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item31 Ref="33" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line30" LocationFloat="392, 762" SizeF="394, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item32 Ref="34" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line31" LocationFloat="391, 1023" SizeF="394, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item33 Ref="35" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line32" LocationFloat="295, 699" SizeF="472, 1" LineDirection="Horizontal" ForeColor="255,2,117,83" LineWidth="1"/>
-        <Item34 Ref="36" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line33" LocationFloat="54, 853" SizeF="313, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item35 Ref="37" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line34" LocationFloat="44, 119" SizeF="723, 1" LineDirection="Horizontal" ForeColor="255,0,98,49" LineWidth="1"/>
-        <Item36 Ref="38" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line35" LocationFloat="44, 119" SizeF="2, 414" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item37 Ref="39" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line36" LocationFloat="44, 149" SizeF="723, 1" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item38 Ref="40" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line37" LocationFloat="45, 218" SizeF="723, 1" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item39 Ref="41" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line38" LocationFloat="137, 182" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item40 Ref="42" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line39" LocationFloat="230, 182" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item41 Ref="43" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line40" LocationFloat="382, 181" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item42 Ref="44" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line41" LocationFloat="551, 181" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item43 Ref="45" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line42" LocationFloat="640, 181" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item44 Ref="46" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line43" LocationFloat="640, 120" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item45 Ref="47" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line44" LocationFloat="551, 119" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item46 Ref="48" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line45" LocationFloat="382, 119" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item47 Ref="49" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line46" LocationFloat="230, 119" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
-        <Item48 Ref="50" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line47" LocationFloat="44, 119" SizeF="725, 1" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item49 Ref="51" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line48" LocationFloat="44, 541" SizeF="727, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item50 Ref="52" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line49" LocationFloat="769, 541" SizeF="2, 159" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item51 Ref="53" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line50" LocationFloat="44, 698" SizeF="727, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item52 Ref="54" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line51" LocationFloat="300, 542" SizeF="2, 157" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item53 Ref="55" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line52" LocationFloat="392, 821" SizeF="394, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item54 Ref="56" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line53" LocationFloat="392, 858" SizeF="389, 2" LineDirection="Horizontal" ForeColor="255,71,109,126" LineWidth="1"/>
-        <Item55 Ref="57" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line54" LocationFloat="393, 881" SizeF="388, 2" LineDirection="Horizontal" ForeColor="255,71,109,126" LineWidth="1"/>
-        <Item56 Ref="58" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line55" LocationFloat="533, 822" SizeF="2, 86" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item57 Ref="59" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line56" LocationFloat="651, 822" SizeF="2, 86" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item58 Ref="60" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line57" LocationFloat="640, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item59 Ref="61" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line58" LocationFloat="382, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item60 Ref="62" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line59" LocationFloat="551, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item61 Ref="63" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line60" LocationFloat="230, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item62 Ref="64" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line61" LocationFloat="43, 542" SizeF="2, 156" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item63 Ref="65" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line62" LocationFloat="533, 858" SizeF="2, 27" LineDirection="Vertical" ForeColor="255,251,251,251" LineWidth="1"/>
-        <Item64 Ref="66" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line63" LocationFloat="651, 857" SizeF="2, 27" LineDirection="Vertical" ForeColor="255,251,251,251" LineWidth="1"/>
-        <Item65 Ref="67" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line64" LocationFloat="769, 119" SizeF="2, 415" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item66 Ref="68" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line65" LocationFloat="26, 738" SizeF="750, 1" LineDirection="Horizontal" ForeColor="255,64,128,128" LineWidth="1"/>
-        <Item67 Ref="69" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line66" LocationFloat="377, 764" SizeF="2, 178" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item68 Ref="70" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line67" LocationFloat="38, 762" SizeF="341, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item69 Ref="71" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line68" LocationFloat="36, 762" SizeF="2, 181" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
-        <Item70 Ref="72" ControlType="DevExpress.XtraReports.UI.XRPictureBox, DevExpress.XtraReports.v24.2" Name="Picture69" LocationFloat="44, 560" SizeF="250, 137" Sizing="ZoomImage" BorderColor="128,128,128,128" Borders="All" BorderWidth="1" Tag="Placeholder: rptFoxchartFilename"/>
-        <Item71 Ref="73" ControlType="DevExpress.XtraReports.UI.XRPictureBox, DevExpress.XtraReports.v24.2" Name="Picture70" LocationFloat="301, 18" SizeF="179, 100" Sizing="ZoomImage" BorderColor="128,128,128,128" Borders="All" BorderWidth="1" Tag="Placeholder: rptLogo"/>
-        <Item72 Ref="74" ControlType="DevExpress.XtraReports.UI.XRPictureBox, DevExpress.XtraReports.v24.2" Name="Picture71" LocationFloat="65, 781" SizeF="286, 62" Sizing="ZoomImage" BorderColor="128,128,128,128" Borders="All" BorderWidth="1" Tag="Placeholder: rptBottomLogo"/>
-        <Item73 Ref="75" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label72" LocationFloat="662, 428" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        <Item31 Ref="33" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line30" LocationFloat="391, 1023" SizeF="394, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item32 Ref="34" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line31" LocationFloat="295, 699" SizeF="472, 1" LineDirection="Horizontal" ForeColor="255,2,117,83" LineWidth="1"/>
+        <Item33 Ref="35" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line32" LocationFloat="54, 853" SizeF="313, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item34 Ref="36" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line33" LocationFloat="44, 119" SizeF="723, 1" LineDirection="Horizontal" ForeColor="255,0,98,49" LineWidth="1"/>
+        <Item35 Ref="37" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line34" LocationFloat="44, 149" SizeF="723, 1" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item36 Ref="38" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line35" LocationFloat="45, 218" SizeF="723, 1" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item37 Ref="39" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line36" LocationFloat="137, 182" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item38 Ref="40" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line37" LocationFloat="230, 182" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item39 Ref="41" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line38" LocationFloat="382, 181" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item40 Ref="42" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line39" LocationFloat="551, 181" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item41 Ref="43" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line40" LocationFloat="640, 181" SizeF="1, 38" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item42 Ref="44" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line41" LocationFloat="640, 120" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item43 Ref="45" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line42" LocationFloat="551, 119" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item44 Ref="46" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line43" LocationFloat="382, 119" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item45 Ref="47" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line44" LocationFloat="230, 119" SizeF="1, 30" LineDirection="Vertical" ForeColor="255,243,243,243" LineWidth="1"/>
+        <Item46 Ref="48" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line45" LocationFloat="44, 541" SizeF="727, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item47 Ref="49" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line46" LocationFloat="769, 541" SizeF="2, 159" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item48 Ref="50" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line47" LocationFloat="44, 698" SizeF="727, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item49 Ref="51" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line48" LocationFloat="300, 542" SizeF="2, 157" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item50 Ref="52" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line49" LocationFloat="392, 821" SizeF="394, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item51 Ref="53" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line50" LocationFloat="392, 858" SizeF="389, 2" LineDirection="Horizontal" ForeColor="255,71,109,126" LineWidth="1"/>
+        <Item52 Ref="54" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line51" LocationFloat="393, 881" SizeF="388, 2" LineDirection="Horizontal" ForeColor="255,71,109,126" LineWidth="1"/>
+        <Item53 Ref="55" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line52" LocationFloat="533, 822" SizeF="2, 86" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item54 Ref="56" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line53" LocationFloat="651, 822" SizeF="2, 86" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item55 Ref="57" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line54" LocationFloat="640, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item56 Ref="58" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line55" LocationFloat="382, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item57 Ref="59" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line56" LocationFloat="551, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item58 Ref="60" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line57" LocationFloat="230, 150" SizeF="1, 31" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item59 Ref="61" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line58" LocationFloat="43, 542" SizeF="2, 156" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item60 Ref="62" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line59" LocationFloat="533, 858" SizeF="2, 27" LineDirection="Vertical" ForeColor="255,251,251,251" LineWidth="1"/>
+        <Item61 Ref="63" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line60" LocationFloat="651, 857" SizeF="2, 27" LineDirection="Vertical" ForeColor="255,251,251,251" LineWidth="1"/>
+        <Item62 Ref="64" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line61" LocationFloat="769, 119" SizeF="2, 415" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item63 Ref="65" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line62" LocationFloat="26, 738" SizeF="750, 1" LineDirection="Horizontal" ForeColor="255,64,128,128" LineWidth="1"/>
+        <Item64 Ref="66" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line63" LocationFloat="377, 764" SizeF="2, 178" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item65 Ref="67" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line64" LocationFloat="38, 762" SizeF="341, 2" LineDirection="Horizontal" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item66 Ref="68" ControlType="DevExpress.XtraReports.UI.XRLine, DevExpress.XtraReports.v24.2" Name="Line65" LocationFloat="36, 762" SizeF="2, 181" LineDirection="Vertical" ForeColor="255,79,89,78" LineWidth="1"/>
+        <Item67 Ref="69" ControlType="DevExpress.XtraReports.UI.XRPictureBox, DevExpress.XtraReports.v24.2" Name="Picture66" LocationFloat="44, 560" SizeF="250, 137" Sizing="ZoomImage" BorderColor="128,128,128,128" Borders="All" BorderWidth="1" Tag="Placeholder: rptFoxchartFilename"/>
+        <Item68 Ref="70" ControlType="DevExpress.XtraReports.UI.XRPictureBox, DevExpress.XtraReports.v24.2" Name="Picture67" LocationFloat="301, 18" SizeF="179, 100" Sizing="ZoomImage" BorderColor="128,128,128,128" Borders="All" BorderWidth="1" Tag="Placeholder: rptLogo"/>
+        <Item69 Ref="71" ControlType="DevExpress.XtraReports.UI.XRPictureBox, DevExpress.XtraReports.v24.2" Name="Picture68" LocationFloat="65, 781" SizeF="286, 62" Sizing="ZoomImage" BorderColor="128,128,128,128" Borders="All" BorderWidth="1" Tag="Placeholder: rptBottomLogo"/>
+        <Item70 Ref="72" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label69" LocationFloat="662, 428" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField1]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item73>
-        <Item74 Ref="76" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label73" LocationFloat="662, 269" SizeF="97, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item70>
+        <Item71 Ref="73" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label70" LocationFloat="662, 269" SizeF="97, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField2]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item74>
-        <Item75 Ref="77" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label74" LocationFloat="662, 238" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item71>
+        <Item72 Ref="74" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label71" LocationFloat="662, 238" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField3]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item75>
-        <Item76 Ref="78" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label75" LocationFloat="662, 430" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item72>
+        <Item73 Ref="75" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label72" LocationFloat="662, 430" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField4]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item76>
-        <Item77 Ref="79" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label76" LocationFloat="664, 447" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item73>
+        <Item74 Ref="76" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label73" LocationFloat="664, 447" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField5]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item77>
-        <Item78 Ref="80" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label77" LocationFloat="661, 409" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item74>
+        <Item75 Ref="77" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label74" LocationFloat="661, 409" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField6]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item78>
-        <Item79 Ref="81" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label78" LocationFloat="662, 372" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item75>
+        <Item76 Ref="78" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label75" LocationFloat="662, 372" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField7]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item79>
-        <Item80 Ref="82" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label79" LocationFloat="662, 357" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item76>
+        <Item77 Ref="79" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label76" LocationFloat="662, 357" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField8]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item80>
-        <Item81 Ref="83" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label80" LocationFloat="663, 269" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item77>
+        <Item78 Ref="80" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label77" LocationFloat="663, 269" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField9]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item81>
-        <Item82 Ref="84" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label81" LocationFloat="663, 286" SizeF="95, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item78>
+        <Item79 Ref="81" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label78" LocationFloat="663, 286" SizeF="95, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField10]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item82>
-        <Item83 Ref="85" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label82" LocationFloat="503, 272" SizeF="148, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
-        <Item84 Ref="86" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label83" LocationFloat="25, 13" SizeF="766, 16" Font="Courier New, 10pt" ForeColor="255,255,255,255" BackColor="255,255,255,255" Text="                                                                                           ," TextAlignment="TopNear"/>
-        <Item85 Ref="87" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label84" LocationFloat="465, 286" SizeF="198, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL WATER CHARGE" TextAlignment="TopFar"/>
-        <Item86 Ref="88" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label85" LocationFloat="46, 1030" SizeF="329, 16" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item79>
+        <Item80 Ref="82" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label79" LocationFloat="503, 272" SizeF="148, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
+        <Item81 Ref="83" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label80" LocationFloat="25, 13" SizeF="766, 16" Font="Courier New, 10pt" ForeColor="255,255,255,255" BackColor="255,255,255,255" Text="                                                                                           ," TextAlignment="TopNear"/>
+        <Item82 Ref="84" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label81" LocationFloat="465, 286" SizeF="198, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL WATER CHARGE" TextAlignment="TopFar"/>
+        <Item83 Ref="85" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label82" LocationFloat="46, 1030" SizeF="329, 16" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField11]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item86>
-        <Item87 Ref="89" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label86" LocationFloat="46, 1030" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item83>
+        <Item84 Ref="86" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label83" LocationFloat="46, 1030" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField12]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item87>
-        <Item88 Ref="90" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label87" LocationFloat="539, 862" SizeF="108, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="AMOUNT DUE" TextAlignment="TopCenter"/>
-        <Item89 Ref="91" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label88" LocationFloat="408, 862" SizeF="110, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="DUE DATE" TextAlignment="TopCenter"/>
-        <Item90 Ref="92" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label89" LocationFloat="662, 508" SizeF="105, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item84>
+        <Item85 Ref="87" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label84" LocationFloat="539, 862" SizeF="108, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="AMOUNT DUE" TextAlignment="TopCenter"/>
+        <Item86 Ref="88" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label85" LocationFloat="408, 862" SizeF="110, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="DUE DATE" TextAlignment="TopCenter"/>
+        <Item87 Ref="89" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label86" LocationFloat="662, 508" SizeF="105, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField13]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item90>
-        <Item91 Ref="93" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label90" LocationFloat="522, 156" SizeF="147, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item87>
+        <Item88 Ref="90" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label87" LocationFloat="522, 156" SizeF="147, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField14]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item91>
-        <Item92 Ref="94" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label91" LocationFloat="386, 156" SizeF="165, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item88>
+        <Item89 Ref="91" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label88" LocationFloat="386, 156" SizeF="165, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField15]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item92>
-        <Item93 Ref="95" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label92" LocationFloat="275, 156" SizeF="81, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item89>
+        <Item90 Ref="92" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label89" LocationFloat="275, 156" SizeF="81, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField16]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item93>
-        <Item94 Ref="96" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label93" LocationFloat="662, 156" SizeF="97, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item90>
+        <Item91 Ref="93" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label90" LocationFloat="662, 156" SizeF="97, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField17]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item94>
-        <Item95 Ref="97" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label94" LocationFloat="50, 219" SizeF="85, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item91>
+        <Item92 Ref="94" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label91" LocationFloat="50, 219" SizeF="85, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField18]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item95>
-        <Item96 Ref="98" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label95" LocationFloat="52, 302" SizeF="84, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item92>
+        <Item93 Ref="95" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label92" LocationFloat="52, 302" SizeF="84, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField19]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item96>
-        <Item97 Ref="99" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label96" LocationFloat="51, 390" SizeF="84, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item93>
+        <Item94 Ref="96" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label93" LocationFloat="51, 390" SizeF="84, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField20]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item97>
-        <Item98 Ref="100" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label97" LocationFloat="50, 483" SizeF="84, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item94>
+        <Item95 Ref="97" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label94" LocationFloat="50, 483" SizeF="84, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField21]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item98>
-        <Item99 Ref="101" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label98" LocationFloat="138, 220" SizeF="88, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item95>
+        <Item96 Ref="98" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label95" LocationFloat="138, 220" SizeF="88, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField22]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item99>
-        <Item100 Ref="102" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label99" LocationFloat="138, 302" SizeF="86, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item96>
+        <Item97 Ref="99" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label96" LocationFloat="138, 302" SizeF="86, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField23]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item100>
-        <Item101 Ref="103" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label100" LocationFloat="138, 390" SizeF="88, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item97>
+        <Item98 Ref="100" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label97" LocationFloat="138, 390" SizeF="88, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField24]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item101>
-        <Item102 Ref="104" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label101" LocationFloat="138, 483" SizeF="253, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,0,0,255" Text="TOTAL ADJUSTMENT APPLIED TO BALANCE" TextAlignment="TopNear"/>
-        <Item103 Ref="105" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label102" LocationFloat="240, 220" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item98>
+        <Item99 Ref="101" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label98" LocationFloat="138, 483" SizeF="253, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,0,0,255" Text="TOTAL ADJUSTMENT APPLIED TO BALANCE" TextAlignment="TopNear"/>
+        <Item100 Ref="102" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label99" LocationFloat="240, 220" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField25]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item103>
-        <Item104 Ref="106" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label103" LocationFloat="316, 220" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item100>
+        <Item101 Ref="103" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label100" LocationFloat="316, 220" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField26]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item104>
-        <Item105 Ref="107" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label104" LocationFloat="238, 303" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item101>
+        <Item102 Ref="104" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label101" LocationFloat="238, 303" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField27]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item105>
-        <Item106 Ref="108" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label105" LocationFloat="314, 303" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item102>
+        <Item103 Ref="105" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label102" LocationFloat="314, 303" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField28]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item106>
-        <Item107 Ref="109" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label106" LocationFloat="238, 391" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item103>
+        <Item104 Ref="106" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label103" LocationFloat="238, 391" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField29]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item107>
-        <Item108 Ref="110" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label107" LocationFloat="314, 391" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item104>
+        <Item105 Ref="107" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label104" LocationFloat="314, 391" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField30]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item108>
-        <Item109 Ref="111" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label108" LocationFloat="386, 220" SizeF="78, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item105>
+        <Item106 Ref="108" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label105" LocationFloat="386, 220" SizeF="78, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField31]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item109>
-        <Item110 Ref="112" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label109" LocationFloat="473, 220" SizeF="76, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item106>
+        <Item107 Ref="109" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label106" LocationFloat="473, 220" SizeF="76, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField32]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item110>
-        <Item111 Ref="113" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label110" LocationFloat="385, 305" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item107>
+        <Item108 Ref="110" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label107" LocationFloat="385, 305" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField33]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item111>
-        <Item112 Ref="114" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label111" LocationFloat="473, 305" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item108>
+        <Item109 Ref="111" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label108" LocationFloat="473, 305" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField34]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item112>
-        <Item113 Ref="115" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label112" LocationFloat="386, 391" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item109>
+        <Item110 Ref="112" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label109" LocationFloat="386, 391" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField35]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item113>
-        <Item114 Ref="116" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label113" LocationFloat="475, 391" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item110>
+        <Item111 Ref="113" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label110" LocationFloat="475, 391" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField36]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item114>
-        <Item115 Ref="117" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label114" LocationFloat="503, 272" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
-        <Item116 Ref="118" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label115" LocationFloat="563, 220" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item111>
+        <Item112 Ref="114" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label111" LocationFloat="563, 220" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField37]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item116>
-        <Item117 Ref="119" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label116" LocationFloat="465, 286" SizeF="198, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL WATER CHARGE" TextAlignment="TopFar"/>
-        <Item118 Ref="120" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label117" LocationFloat="501, 358" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
-        <Item119 Ref="121" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label118" LocationFloat="465, 373" SizeF="198, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL SEWER CHARGE" TextAlignment="TopFar"/>
-        <Item120 Ref="122" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label119" LocationFloat="502, 430" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
-        <Item121 Ref="123" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label120" LocationFloat="422, 448" SizeF="251, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL IRRIGATION CHARGE" TextAlignment="TopFar"/>
-        <Item122 Ref="124" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label121" LocationFloat="563, 305" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item112>
+        <Item113 Ref="115" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label112" LocationFloat="501, 358" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
+        <Item114 Ref="116" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label113" LocationFloat="465, 373" SizeF="198, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL SEWER CHARGE" TextAlignment="TopFar"/>
+        <Item115 Ref="117" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label114" LocationFloat="502, 430" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
+        <Item116 Ref="118" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label115" LocationFloat="422, 448" SizeF="251, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL IRRIGATION CHARGE" TextAlignment="TopFar"/>
+        <Item117 Ref="119" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label116" LocationFloat="563, 305" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField38]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item122>
-        <Item123 Ref="125" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label122" LocationFloat="564, 391" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item117>
+        <Item118 Ref="120" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label117" LocationFloat="564, 391" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField39]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item123>
-        <Item124 Ref="126" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label123" LocationFloat="662, 220" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item118>
+        <Item119 Ref="121" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label118" LocationFloat="662, 220" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField40]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item124>
-        <Item125 Ref="127" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label124" LocationFloat="662, 286" SizeF="97, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item119>
+        <Item120 Ref="122" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label119" LocationFloat="662, 286" SizeF="97, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField41]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item125>
-        <Item126 Ref="128" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label125" LocationFloat="662, 306" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item120>
+        <Item121 Ref="123" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label120" LocationFloat="662, 306" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField42]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item126>
-        <Item127 Ref="129" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label126" LocationFloat="662, 358" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item121>
+        <Item122 Ref="124" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label121" LocationFloat="662, 358" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField43]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item127>
-        <Item128 Ref="130" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label127" LocationFloat="662, 372" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item122>
+        <Item123 Ref="125" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label122" LocationFloat="662, 391" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField44]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item128>
-        <Item129 Ref="131" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label128" LocationFloat="662, 391" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item123>
+        <Item124 Ref="126" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label123" LocationFloat="664, 448" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField45]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item129>
-        <Item130 Ref="132" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label129" LocationFloat="664, 448" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item124>
+        <Item125 Ref="127" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label124" LocationFloat="664, 465" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField46]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item130>
-        <Item131 Ref="133" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label130" LocationFloat="664, 465" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item125>
+        <Item126 Ref="128" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label125" LocationFloat="361, 775" SizeF="16, 16" Font="Courier New, 10pt" ForeColor="255,255,255,255" BackColor="255,255,255,255" Text=" ," TextAlignment="TopNear"/>
+        <Item127 Ref="129" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label126" LocationFloat="426, 509" SizeF="121, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField47]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item131>
-        <Item132 Ref="134" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label131" LocationFloat="361, 775" SizeF="16, 16" Font="Courier New, 10pt" ForeColor="255,255,255,255" BackColor="255,255,255,255" Text=" ," TextAlignment="TopNear"/>
-        <Item133 Ref="135" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label132" LocationFloat="426, 509" SizeF="121, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item127>
+        <Item128 Ref="130" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label127" LocationFloat="184, 508" SizeF="116, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField48]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item133>
-        <Item134 Ref="136" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label133" LocationFloat="184, 508" SizeF="116, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item128>
+        <Item129 Ref="131" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label128" LocationFloat="416, 840" SizeF="115, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField49]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item134>
-        <Item135 Ref="137" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label134" LocationFloat="416, 840" SizeF="115, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item129>
+        <Item130 Ref="132" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label129" LocationFloat="423, 887" SizeF="92, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField50]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item135>
-        <Item136 Ref="138" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label135" LocationFloat="423, 887" SizeF="92, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item130>
+        <Item131 Ref="133" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label130" LocationFloat="545, 840" SizeF="92, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField51]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item136>
-        <Item137 Ref="139" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label136" LocationFloat="545, 840" SizeF="92, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item131>
+        <Item132 Ref="134" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label131" LocationFloat="660, 840" SizeF="92, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField52]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item137>
-        <Item138 Ref="140" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label137" LocationFloat="660, 840" SizeF="92, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item132>
+        <Item133 Ref="135" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label132" LocationFloat="539, 886" SizeF="107, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField53]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item138>
-        <Item139 Ref="141" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label138" LocationFloat="539, 886" SizeF="107, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item133>
+        <Item134 Ref="136" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label133" LocationFloat="50, 156" SizeF="188, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField54]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item139>
-        <Item140 Ref="142" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label139" LocationFloat="50, 156" SizeF="188, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item134>
+        <Item135 Ref="137" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label134" LocationFloat="12, 766" SizeF="88, 18" Font="Arial, 10pt" ForeColor="255,0,0,0" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField55]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item140>
-        <Item141 Ref="143" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label140" LocationFloat="12, 766" SizeF="88, 18" Font="Arial, 10pt" ForeColor="255,0,0,0" TextAlignment="TopNear">
+        </Item135>
+        <Item136 Ref="138" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label135" LocationFloat="25, 787" SizeF="211, 16" Font="Courier  PS, 10pt" Text="&lt;-- Do not delete, Needed for graph" TextAlignment="TopNear"/>
+        <Item137 Ref="139" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label136" LocationFloat="12, 748" SizeF="88, 18" Font="Arial, 10pt" ForeColor="255,0,0,0" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField56]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item141>
-        <Item142 Ref="144" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label141" LocationFloat="25, 787" SizeF="211, 16" Font="Courier  PS, 10pt" Text="&lt;-- Do not delete, Needed for graph" TextAlignment="TopNear"/>
-        <Item143 Ref="145" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label142" LocationFloat="12, 748" SizeF="88, 18" Font="Arial, 10pt" ForeColor="255,0,0,0" TextAlignment="TopFar">
+        </Item137>
+        <Item138 Ref="140" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label137" LocationFloat="141, 188" SizeF="86, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="SERVICE" TextAlignment="TopCenter"/>
+        <Item139 Ref="141" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label138" LocationFloat="234, 183" SizeF="142, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="SERVICE DATES" TextAlignment="TopCenter"/>
+        <Item140 Ref="142" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label139" LocationFloat="396, 183" SizeF="142, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="METER READING" TextAlignment="TopCenter"/>
+        <Item141 Ref="143" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label140" LocationFloat="386, 200" SizeF="81, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="PRIOR" TextAlignment="TopCenter"/>
+        <Item142 Ref="144" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label141" LocationFloat="471, 200" SizeF="78, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="CURRENT" TextAlignment="TopCenter"/>
+        <Item143 Ref="145" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label142" LocationFloat="559, 191" SizeF="73, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="USAGE" TextAlignment="TopCenter"/>
+        <Item144 Ref="146" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label143" LocationFloat="644, 190" SizeF="116, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="AMOUNT" TextAlignment="TopCenter"/>
+        <Item145 Ref="147" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label144" LocationFloat="231, 200" SizeF="72, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="FROM" TextAlignment="TopCenter"/>
+        <Item146 Ref="148" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label145" LocationFloat="308, 200" SizeF="71, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="TO" TextAlignment="TopCenter"/>
+        <Item147 Ref="149" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label146" LocationFloat="469, 959" SizeF="241, 16" Font="Arial, 8pt, style=Bold" Text="GATEWAY SERVICES DISTRICT" TextAlignment="TopNear"/>
+        <Item148 Ref="150" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label147" LocationFloat="469, 973" SizeF="241, 16" Font="Arial, 8pt, style=Bold" Text="PO BOX 7518" TextAlignment="TopNear"/>
+        <Item149 Ref="151" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label148" LocationFloat="469, 990" SizeF="241, 16" Font="Arial, 8pt, style=Bold" Text="NAPLES FL  34101-7518" TextAlignment="TopNear"/>
+        <Item150 Ref="152" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label149" LocationFloat="19, 702" SizeF="781, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="WANT TO PAY ON-LINE THROUGH YOUR BANK?  TO ENSURE TIMELY CREDIT TO YOUR UTILITY ACCOUNT, PLEASE CHANGE" TextAlignment="TopCenter"/>
+        <Item151 Ref="153" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label150" LocationFloat="15, 717" SizeF="782, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="YOUR PAYMENT INSTRUCTIONS TO INCLUDE THE ACCOUNT NUMBER &amp; PO BOX ADDRESS SHOWN BELOW." TextAlignment="TopCenter"/>
+        <Item152 Ref="154" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label151" LocationFloat="119, 740" SizeF="618, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="DETACH AND RETURN THIS PORTION WITH YOUR PAYMENT; SEE PAGE 2 FOR ADDITIONAL PAY OPTIONS &amp; UTILITY POLICY" TextAlignment="TopFar"/>
+        <Item153 Ref="155" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label152" LocationFloat="32, 892" SizeF="341, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="        PAY YOUR BILL ONLINE AT GATEWAYDISTRICT.ORG" TextAlignment="TopCenter"/>
+        <Item154 Ref="156" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label153" LocationFloat="46, 541" SizeF="265, 16" Font="Calibri, 9pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,79,89,78" Text="POTABLE WATER USAGE ONLY" TextAlignment="TopCenter"/>
+        <Item155 Ref="157" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label154" LocationFloat="45, 916" SizeF="325, 17" Font="Arial, 9pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="ADDRESSEE" TextAlignment="TopCenter"/>
+        <Item156 Ref="158" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label155" LocationFloat="433, 909" SizeF="312, 16" Font="Arial, 10pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="MAKE CHECK PAYABLE TO" TextAlignment="TopCenter"/>
+        <Item157 Ref="159" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label156" LocationFloat="417, 824" SizeF="110, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="BILL DATE" TextAlignment="TopCenter"/>
+        <Item158 Ref="160" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label157" LocationFloat="538, 824" SizeF="111, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="SERVICE ID" TextAlignment="TopCenter"/>
+        <Item159 Ref="161" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label158" LocationFloat="658, 824" SizeF="109, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="ACCOUNT NO." TextAlignment="TopCenter"/>
+        <Item160 Ref="162" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label159" LocationFloat="31, 45" SizeF="178, 18" Font="Calibri, 11pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="     GATEWAY SERVICES CDD &#13;" TextAlignment="TopNear"/>
+        <Item161 Ref="163" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label160" LocationFloat="669, 32" SizeF="100, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,73,91,94" BackColor="255,255,255,255" Text="VISIT US ONLINE:" TextAlignment="TopNear"/>
+        <Item162 Ref="164" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label161" LocationFloat="662, 858" SizeF="113, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="PAYMENT" TextAlignment="TopCenter"/>
+        <Item163 Ref="165" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label162" LocationFloat="652, 868" SizeF="136, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="AMOUNT" TextAlignment="TopCenter"/>
+        <Item164 Ref="166" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label163" LocationFloat="561, 509" SizeF="75, 15" Font="Calibri, 10pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,79,89,78" Text="TOTAL" TextAlignment="TopCenter"/>
+        <Item165 Ref="167" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label164" LocationFloat="46, 983" SizeF="329, 16" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField57]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item143>
-        <Item144 Ref="146" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label143" LocationFloat="141, 188" SizeF="86, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="SERVICE" TextAlignment="TopCenter"/>
-        <Item145 Ref="147" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label144" LocationFloat="234, 183" SizeF="142, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="SERVICE DATES" TextAlignment="TopCenter"/>
-        <Item146 Ref="148" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label145" LocationFloat="396, 183" SizeF="142, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="METER READING" TextAlignment="TopCenter"/>
-        <Item147 Ref="149" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label146" LocationFloat="386, 200" SizeF="81, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="PRIOR" TextAlignment="TopCenter"/>
-        <Item148 Ref="150" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label147" LocationFloat="471, 200" SizeF="78, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="CURRENT" TextAlignment="TopCenter"/>
-        <Item149 Ref="151" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label148" LocationFloat="559, 191" SizeF="73, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="USAGE" TextAlignment="TopCenter"/>
-        <Item150 Ref="152" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label149" LocationFloat="644, 190" SizeF="116, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="AMOUNT" TextAlignment="TopCenter"/>
-        <Item151 Ref="153" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label150" LocationFloat="231, 200" SizeF="72, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="FROM" TextAlignment="TopCenter"/>
-        <Item152 Ref="154" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label151" LocationFloat="308, 200" SizeF="71, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="TO" TextAlignment="TopCenter"/>
-        <Item153 Ref="155" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label152" LocationFloat="469, 959" SizeF="241, 16" Font="Arial, 8pt, style=Bold" Text="GATEWAY SERVICES DISTRICT" TextAlignment="TopNear"/>
-        <Item154 Ref="156" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label153" LocationFloat="469, 973" SizeF="241, 16" Font="Arial, 8pt, style=Bold" Text="PO BOX 7518" TextAlignment="TopNear"/>
-        <Item155 Ref="157" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label154" LocationFloat="469, 990" SizeF="241, 16" Font="Arial, 8pt, style=Bold" Text="NAPLES FL  34101-7518" TextAlignment="TopNear"/>
-        <Item156 Ref="158" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label155" LocationFloat="19, 702" SizeF="781, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="WANT TO PAY ON-LINE THROUGH YOUR BANK?  TO ENSURE TIMELY CREDIT TO YOUR UTILITY ACCOUNT, PLEASE CHANGE" TextAlignment="TopCenter"/>
-        <Item157 Ref="159" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label156" LocationFloat="15, 717" SizeF="782, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="YOUR PAYMENT INSTRUCTIONS TO INCLUDE THE ACCOUNT NUMBER &amp; PO BOX ADDRESS SHOWN BELOW." TextAlignment="TopCenter"/>
-        <Item158 Ref="160" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label157" LocationFloat="119, 740" SizeF="618, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="DETACH AND RETURN THIS PORTION WITH YOUR PAYMENT; SEE PAGE 2 FOR ADDITIONAL PAY OPTIONS &amp; UTILITY POLICY" TextAlignment="TopFar"/>
-        <Item159 Ref="161" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label158" LocationFloat="32, 892" SizeF="341, 16" Font="Arial Narrow, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="        PAY YOUR BILL ONLINE AT GATEWAYDISTRICT.ORG" TextAlignment="TopCenter"/>
-        <Item160 Ref="162" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label159" LocationFloat="46, 541" SizeF="265, 16" Font="Calibri, 9pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,79,89,78" Text="POTABLE WATER USAGE ONLY" TextAlignment="TopCenter"/>
-        <Item161 Ref="163" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label160" LocationFloat="45, 916" SizeF="325, 17" Font="Arial, 9pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="ADDRESSEE" TextAlignment="TopCenter"/>
-        <Item162 Ref="164" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label161" LocationFloat="433, 909" SizeF="312, 16" Font="Arial, 10pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="MAKE CHECK PAYABLE TO" TextAlignment="TopCenter"/>
-        <Item163 Ref="165" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label162" LocationFloat="417, 824" SizeF="110, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="BILL DATE" TextAlignment="TopCenter"/>
-        <Item164 Ref="166" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label163" LocationFloat="538, 824" SizeF="111, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="SERVICE ID" TextAlignment="TopCenter"/>
-        <Item165 Ref="167" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label164" LocationFloat="658, 824" SizeF="109, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="ACCOUNT NO." TextAlignment="TopCenter"/>
-        <Item166 Ref="168" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label165" LocationFloat="31, 45" SizeF="178, 18" Font="Calibri, 11pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="     GATEWAY SERVICES CDD &#13;" TextAlignment="TopNear"/>
-        <Item167 Ref="169" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label166" LocationFloat="669, 32" SizeF="100, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,73,91,94" BackColor="255,255,255,255" Text="VISIT US ONLINE:" TextAlignment="TopNear"/>
-        <Item168 Ref="170" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label167" LocationFloat="662, 858" SizeF="113, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="PAYMENT" TextAlignment="TopCenter"/>
-        <Item169 Ref="171" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label168" LocationFloat="652, 868" SizeF="136, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="AMOUNT" TextAlignment="TopCenter"/>
-        <Item170 Ref="172" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label169" LocationFloat="561, 509" SizeF="75, 15" Font="Calibri, 10pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,79,89,78" Text="TOTAL" TextAlignment="TopCenter"/>
-        <Item171 Ref="173" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label170" LocationFloat="46, 983" SizeF="329, 16" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item165>
+        <Item166 Ref="168" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label165" LocationFloat="46, 1014" SizeF="329, 16" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField58]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item171>
-        <Item172 Ref="174" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label171" LocationFloat="46, 1014" SizeF="329, 16" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item166>
+        <Item167 Ref="169" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label166" LocationFloat="308, 543" SizeF="61, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,255,0,0" Text="MESSAGE:" TextAlignment="TopNear"/>
+        <Item168 Ref="170" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label167" LocationFloat="44, 125" SizeF="184, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="SERVICE ADDRESS" TextAlignment="TopCenter"/>
+        <Item169 Ref="171" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label168" LocationFloat="47, 186" SizeF="85, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="BILLING DATE" TextAlignment="TopCenter"/>
+        <Item170 Ref="172" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label169" LocationFloat="517, 118" SizeF="152, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="DUE DATE" TextAlignment="TopCenter"/>
+        <Item171 Ref="173" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label170" LocationFloat="640, 118" SizeF="130, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="AMOUNT DUE" TextAlignment="TopCenter"/>
+        <Item172 Ref="174" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label171" LocationFloat="383, 118" SizeF="168, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="ACCOUNT NUMBER" TextAlignment="TopCenter"/>
+        <Item173 Ref="175" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label172" LocationFloat="283, 120" SizeF="43, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="BILLING" TextAlignment="TopNear"/>
+        <Item174 Ref="176" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label173" LocationFloat="289, 134" SizeF="28, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="DATE" TextAlignment="TopNear"/>
+        <Item175 Ref="177" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label174" LocationFloat="314, 511" SizeF="94, 15" Font="Arial Narrow, 7pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="CURRENT  AMOUNT" TextAlignment="TopCenter"/>
+        <Item176 Ref="178" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label175" LocationFloat="51, 510" SizeF="126, 15" Font="Arial Narrow, 7pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="PREVIOUS BALANCE" TextAlignment="TopCenter"/>
+        <Item177 Ref="179" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label176" LocationFloat="307, 558" SizeF="462, 133" Font="Arial, 7pt, style=Bold" BackColor="255,240,240,238" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField59]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item172>
-        <Item173 Ref="175" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label172" LocationFloat="308, 543" SizeF="61, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,255,0,0" Text="MESSAGE:" TextAlignment="TopNear"/>
-        <Item174 Ref="176" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label173" LocationFloat="44, 125" SizeF="184, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="SERVICE ADDRESS" TextAlignment="TopCenter"/>
-        <Item175 Ref="177" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label174" LocationFloat="47, 186" SizeF="85, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,126,125,117" Text="BILLING DATE" TextAlignment="TopCenter"/>
-        <Item176 Ref="178" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label175" LocationFloat="517, 118" SizeF="152, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="DUE DATE" TextAlignment="TopCenter"/>
-        <Item177 Ref="179" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label176" LocationFloat="640, 118" SizeF="130, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="AMOUNT DUE" TextAlignment="TopCenter"/>
-        <Item178 Ref="180" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label177" LocationFloat="383, 118" SizeF="168, 31" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="ACCOUNT NUMBER" TextAlignment="TopCenter"/>
-        <Item179 Ref="181" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label178" LocationFloat="283, 120" SizeF="43, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="BILLING" TextAlignment="TopNear"/>
-        <Item180 Ref="182" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label179" LocationFloat="289, 134" SizeF="28, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="DATE" TextAlignment="TopNear"/>
-        <Item181 Ref="183" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label180" LocationFloat="314, 511" SizeF="94, 15" Font="Arial Narrow, 7pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="CURRENT  AMOUNT" TextAlignment="TopCenter"/>
-        <Item182 Ref="184" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label181" LocationFloat="51, 510" SizeF="126, 15" Font="Arial Narrow, 7pt, style=Bold" ForeColor="255,255,255,255" BackColor="255,71,109,126" Text="PREVIOUS BALANCE" TextAlignment="TopCenter"/>
-        <Item183 Ref="185" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label182" LocationFloat="307, 558" SizeF="462, 133" Font="Arial, 7pt, style=Bold" BackColor="255,240,240,238" TextAlignment="TopNear">
+        </Item177>
+        <Item178 Ref="180" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label177" LocationFloat="46, 1044" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField60]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item183>
-        <Item184 Ref="186" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label183" LocationFloat="46, 1044" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item178>
+        <Item179 Ref="181" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label178" LocationFloat="46, 998" SizeF="330, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField61]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item184>
-        <Item185 Ref="187" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label184" LocationFloat="46, 998" SizeF="330, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item179>
+        <Item180 Ref="182" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label179" LocationFloat="47, 998" SizeF="328, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField62]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item185>
-        <Item186 Ref="188" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label185" LocationFloat="47, 998" SizeF="328, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item180>
+        <Item181 Ref="183" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label180" LocationFloat="46, 1014" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField63]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item186>
-        <Item187 Ref="189" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label186" LocationFloat="46, 1014" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item181>
+        <Item182 Ref="184" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label181" LocationFloat="46, 1014" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField64]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item187>
-        <Item188 Ref="190" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label187" LocationFloat="46, 1014" SizeF="329, 17" Font="Arial, 9pt, style=Bold" TextAlignment="TopNear">
+        </Item182>
+        <Item183 Ref="185" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label182" LocationFloat="138, 408" SizeF="107, 16" Font="Arial, 8pt, style=Bold" Text="IRR BYPASS" TextAlignment="TopNear"/>
+        <Item184 Ref="186" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label183" LocationFloat="238, 409" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField65]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item188>
-        <Item189 Ref="191" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label188" LocationFloat="138, 408" SizeF="107, 16" Font="Arial, 8pt, style=Bold" Text="IRR BYPASS" TextAlignment="TopNear"/>
-        <Item190 Ref="192" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label189" LocationFloat="238, 409" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item184>
+        <Item185 Ref="187" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label184" LocationFloat="314, 409" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField66]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item190>
-        <Item191 Ref="193" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label190" LocationFloat="314, 409" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item185>
+        <Item186 Ref="188" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label185" LocationFloat="386, 409" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField67]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item191>
-        <Item192 Ref="194" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label191" LocationFloat="386, 409" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item186>
+        <Item187 Ref="189" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label186" LocationFloat="475, 409" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField68]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item192>
-        <Item193 Ref="195" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label192" LocationFloat="475, 409" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item187>
+        <Item188 Ref="190" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label187" LocationFloat="564, 409" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField69]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item193>
-        <Item194 Ref="196" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label193" LocationFloat="564, 409" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item188>
+        <Item189 Ref="191" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label188" LocationFloat="138, 320" SizeF="113, 16" Font="Arial, 8pt, style=Bold" Text="SWR BYPASS" TextAlignment="TopNear"/>
+        <Item190 Ref="192" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label189" LocationFloat="238, 321" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField70]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item194>
-        <Item195 Ref="197" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label194" LocationFloat="138, 320" SizeF="113, 16" Font="Arial, 8pt, style=Bold" Text="SWR BYPASS" TextAlignment="TopNear"/>
-        <Item196 Ref="198" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label195" LocationFloat="238, 321" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item190>
+        <Item191 Ref="193" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label190" LocationFloat="314, 321" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField71]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item196>
-        <Item197 Ref="199" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label196" LocationFloat="314, 321" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item191>
+        <Item192 Ref="194" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label191" LocationFloat="385, 322" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField72]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item197>
-        <Item198 Ref="200" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label197" LocationFloat="385, 322" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item192>
+        <Item193 Ref="195" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label192" LocationFloat="473, 322" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField73]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item198>
-        <Item199 Ref="201" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label198" LocationFloat="473, 322" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item193>
+        <Item194 Ref="196" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label193" LocationFloat="563, 322" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField74]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item199>
-        <Item200 Ref="202" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label199" LocationFloat="563, 322" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item194>
+        <Item195 Ref="197" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label194" LocationFloat="662, 322" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField75]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item200>
-        <Item201 Ref="203" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label200" LocationFloat="662, 322" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item195>
+        <Item196 Ref="198" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label195" LocationFloat="137, 238" SizeF="102, 16" Font="Arial, 8pt, style=Bold" Text="WTR BYPASS" TextAlignment="TopNear"/>
+        <Item197 Ref="199" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label196" LocationFloat="240, 238" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField76]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item201>
-        <Item202 Ref="204" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label201" LocationFloat="137, 238" SizeF="102, 16" Font="Arial, 8pt, style=Bold" Text="WTR BYPASS" TextAlignment="TopNear"/>
-        <Item203 Ref="205" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label202" LocationFloat="240, 238" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item197>
+        <Item198 Ref="200" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label197" LocationFloat="316, 238" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField77]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item203>
-        <Item204 Ref="206" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label203" LocationFloat="316, 238" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item198>
+        <Item199 Ref="201" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label198" LocationFloat="386, 238" SizeF="78, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField78]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item204>
-        <Item205 Ref="207" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label204" LocationFloat="386, 238" SizeF="78, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item199>
+        <Item200 Ref="202" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label199" LocationFloat="473, 238" SizeF="76, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField79]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item205>
-        <Item206 Ref="208" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label205" LocationFloat="473, 238" SizeF="76, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item200>
+        <Item201 Ref="203" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label200" LocationFloat="563, 238" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField80]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item206>
-        <Item207 Ref="209" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label206" LocationFloat="563, 238" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item201>
+        <Item202 Ref="204" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label201" LocationFloat="501, 357" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
+        <Item203 Ref="205" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label202" LocationFloat="465, 372" SizeF="198, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL SEWER CHARGE" TextAlignment="TopFar"/>
+        <Item204 Ref="206" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label203" LocationFloat="501, 430" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
+        <Item205 Ref="207" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label204" LocationFloat="422, 447" SizeF="251, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL IRRIGATION CHARGE" TextAlignment="TopFar"/>
+        <Item206 Ref="208" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label205" LocationFloat="45, 863" SizeF="330, 21" Font="Arial, 10pt, style=Bold" ForeColor="255,0,0,255" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField81]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item207>
-        <Item208 Ref="210" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label207" LocationFloat="501, 357" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
-        <Item209 Ref="211" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label208" LocationFloat="465, 372" SizeF="198, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL SEWER CHARGE" TextAlignment="TopFar"/>
-        <Item210 Ref="212" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label209" LocationFloat="501, 430" SizeF="150, 16" Font="Arial, 8pt, style=Bold" Text="BASE CHARGE" TextAlignment="TopFar"/>
-        <Item211 Ref="213" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label210" LocationFloat="422, 447" SizeF="251, 16" Font="Arial, 8pt, style=Bold" Text="TOTAL IRRIGATION CHARGE" TextAlignment="TopFar"/>
-        <Item212 Ref="214" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label211" LocationFloat="45, 863" SizeF="330, 21" Font="Arial, 10pt, style=Bold" ForeColor="255,0,0,255" TextAlignment="TopCenter">
+        </Item206>
+        <Item207 Ref="209" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label206" LocationFloat="498, 944" SizeF="175, 16" Font="Arial, 10pt, style=Bold" ForeColor="255,255,0,0" Text="AUTOMATED BANK DRAFT" TextAlignment="TopNear"/>
+        <Item208 Ref="210" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label207" LocationFloat="537, 1007" SizeF="83, 16" Font="Arial, 10pt, style=Bold" ForeColor="255,255,0,0" Text="DO NOT PAY" TextAlignment="TopNear"/>
+        <Item209 Ref="211" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label208" LocationFloat="506, 926" SizeF="139, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,255,255,255" Text="AUTO PAY, DO NOT PAY" TextAlignment="TopNear"/>
+        <Item210 Ref="212" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label209" LocationFloat="392, 482" SizeF="100, 17" Font="Arial, 9pt, style=Bold" ForeColor="255,0,0,255" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField82]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item212>
-        <Item213 Ref="215" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label212" LocationFloat="498, 944" SizeF="175, 16" Font="Arial, 10pt, style=Bold" ForeColor="255,255,0,0" Text="AUTOMATED BANK DRAFT" TextAlignment="TopNear"/>
-        <Item214 Ref="216" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label213" LocationFloat="537, 1007" SizeF="83, 16" Font="Arial, 10pt, style=Bold" ForeColor="255,255,0,0" Text="DO NOT PAY" TextAlignment="TopNear"/>
-        <Item215 Ref="217" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label214" LocationFloat="506, 926" SizeF="139, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,255,255,255" Text="AUTO PAY, DO NOT PAY" TextAlignment="TopNear"/>
-        <Item216 Ref="218" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label215" LocationFloat="392, 482" SizeF="100, 17" Font="Arial, 9pt, style=Bold" ForeColor="255,0,0,255" TextAlignment="TopNear">
+        </Item210>
+        <Item211 Ref="213" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label210" LocationFloat="137, 256" SizeF="101, 16" Font="Arial, 8pt, style=Bold" Text="WTR BYPASS #2" TextAlignment="TopNear"/>
+        <Item212 Ref="214" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label211" LocationFloat="240, 255" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField83]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item216>
-        <Item217 Ref="219" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label216" LocationFloat="137, 256" SizeF="101, 16" Font="Arial, 8pt, style=Bold" Text="WTR BYPASS #2" TextAlignment="TopNear"/>
-        <Item218 Ref="220" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label217" LocationFloat="240, 255" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item212>
+        <Item213 Ref="215" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label212" LocationFloat="315, 255" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField84]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item218>
-        <Item219 Ref="221" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label218" LocationFloat="315, 255" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item213>
+        <Item214 Ref="216" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label213" LocationFloat="386, 255" SizeF="78, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField85]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item219>
-        <Item220 Ref="222" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label219" LocationFloat="386, 255" SizeF="78, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item214>
+        <Item215 Ref="217" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label214" LocationFloat="473, 255" SizeF="76, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField86]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item220>
-        <Item221 Ref="223" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label220" LocationFloat="473, 255" SizeF="76, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item215>
+        <Item216 Ref="218" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label215" LocationFloat="563, 255" SizeF="86, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField87]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item221>
-        <Item222 Ref="224" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label221" LocationFloat="563, 255" SizeF="86, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item216>
+        <Item217 Ref="219" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label216" LocationFloat="138, 338" SizeF="113, 16" Font="Arial, 8pt, style=Bold" Text="SWR BYPASS #2" TextAlignment="TopNear"/>
+        <Item218 Ref="220" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label217" LocationFloat="238, 338" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField88]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item222>
-        <Item223 Ref="225" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label222" LocationFloat="138, 338" SizeF="113, 16" Font="Arial, 8pt, style=Bold" Text="SWR BYPASS #2" TextAlignment="TopNear"/>
-        <Item224 Ref="226" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label223" LocationFloat="238, 338" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item218>
+        <Item219 Ref="221" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label218" LocationFloat="314, 338" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField89]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item224>
-        <Item225 Ref="227" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label224" LocationFloat="314, 338" SizeF="68, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item219>
+        <Item220 Ref="222" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label219" LocationFloat="385, 338" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField90]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item225>
-        <Item226 Ref="228" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label225" LocationFloat="385, 338" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item220>
+        <Item221 Ref="223" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label220" LocationFloat="473, 338" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField91]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item226>
-        <Item227 Ref="229" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label226" LocationFloat="473, 338" SizeF="70, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item221>
+        <Item222 Ref="224" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label221" LocationFloat="564, 338" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField92]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item227>
-        <Item228 Ref="230" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label227" LocationFloat="564, 338" SizeF="87, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopCenter">
+        </Item222>
+        <Item223 Ref="225" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label222" LocationFloat="662, 252" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField93]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item228>
-        <Item229 Ref="231" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label228" LocationFloat="662, 252" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item223>
+        <Item224 Ref="226" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label223" LocationFloat="661, 338" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField94]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item229>
-        <Item230 Ref="232" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label229" LocationFloat="661, 338" SizeF="96, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopFar">
+        </Item224>
+        <Item225 Ref="227" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label224" LocationFloat="225, 756" SizeF="76, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField95]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item230>
-        <Item231 Ref="233" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label230" LocationFloat="225, 756" SizeF="76, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
+        </Item225>
+        <Item226 Ref="228" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label225" LocationFloat="225, 773" SizeF="73, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField96]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item231>
-        <Item232 Ref="234" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label231" LocationFloat="225, 773" SizeF="73, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
+        </Item226>
+        <Item227 Ref="229" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label226" LocationFloat="312, 756" SizeF="76, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField97]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item232>
-        <Item233 Ref="235" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label232" LocationFloat="312, 756" SizeF="76, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
+        </Item227>
+        <Item228 Ref="230" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label227" LocationFloat="300, 773" SizeF="73, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField98]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item233>
-        <Item234 Ref="236" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label233" LocationFloat="300, 773" SizeF="73, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
+        </Item228>
+        <Item229 Ref="231" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label228" LocationFloat="439, 1040" SizeF="300, 15" Font="OCR A Extended, 10pt" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField99]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item234>
-        <Item235 Ref="237" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label234" LocationFloat="439, 1040" SizeF="300, 15" Font="OCR A Extended, 10pt" TextAlignment="TopNear">
+        </Item229>
+        <Item230 Ref="232" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label229" LocationFloat="62, 449" SizeF="16, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField100]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item235>
-        <Item236 Ref="238" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label235" LocationFloat="62, 449" SizeF="16, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
+        </Item230>
+        <Item231 Ref="233" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label230" LocationFloat="547, 221" SizeF="101, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,128,0,0" Text="(E)" TextAlignment="TopNear"/>
+        <Item232 Ref="234" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label231" LocationFloat="546, 391" SizeF="112, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,128,0,0" Text="(E)" TextAlignment="TopNear"/>
+        <Item233 Ref="235" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label232" LocationFloat="100, 449" SizeF="16, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField101]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item236>
-        <Item237 Ref="239" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label236" LocationFloat="547, 221" SizeF="101, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,128,0,0" Text="(E)" TextAlignment="TopNear"/>
-        <Item238 Ref="240" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label237" LocationFloat="546, 391" SizeF="112, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,128,0,0" Text="(E)" TextAlignment="TopNear"/>
-        <Item239 Ref="241" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label238" LocationFloat="100, 449" SizeF="16, 18" Font="Courier New, 10pt" TextAlignment="TopNear">
+        </Item233>
+        <Item234 Ref="236" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label233" LocationFloat="138, 428" SizeF="275, 17" Font="Arial Narrow, 8pt, style=Bold, Italic" ForeColor="255,0,0,255" Text="Read Indicator: ( E ) Indicates billed usage reflects" TextAlignment="TopNear"/>
+        <Item235 Ref="237" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label234" LocationFloat="138, 447" SizeF="275, 17" Font="Arial Narrow, 8pt, style=Bold, Italic" ForeColor="255,0,0,255" Text="an estimated reading." TextAlignment="TopNear"/>
+        <Item236 Ref="238" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label235" LocationFloat="516, 67" SizeF="243, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="THE ANNUAL WATER QUALITY REPORTS ARE" TextAlignment="TopNear"/>
+        <Item237 Ref="239" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label236" LocationFloat="514, 83" SizeF="251, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="RELEASED BY JULY 1ST &amp; AVAILABLE ONLINE" TextAlignment="TopNear"/>
+        <Item238 Ref="240" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label237" LocationFloat="514, 97" SizeF="241, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="WWW.GATEWAYDISTRICT.ORG/DOCUMENTS" TextAlignment="TopNear"/>
+        <Item239 Ref="241" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label238" LocationFloat="19, 89" SizeF="236, 15" Font="Calibri, 9pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="         Customer Care:  239-561-1313                 &#13;" TextAlignment="TopNear"/>
+        <Item240 Ref="242" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label239" LocationFloat="20, 102" SizeF="167, 15" Font="Calibri, 9pt, style=Bold" ForeColor="255,73,91,94" BackColor="255,255,255,255" Text="         After Hours:  239-561-1313&#13;" TextAlignment="TopNear"/>
+        <Item241 Ref="243" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label240" LocationFloat="585, 46" SizeF="183, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,73,91,94" BackColor="255,255,255,255" Text="WWW.GATEWAYDISTRICT.ORG" TextAlignment="TopNear"/>
+        <Item242 Ref="244" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label241" LocationFloat="401, 778" SizeF="371, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="water quality report delivered to your home. You will continue to receive a" TextAlignment="TopNear"/>
+        <Item243 Ref="245" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label242" LocationFloat="415, 765" SizeF="345, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="Please check the box if you would prefer a paper copy of the annual" TextAlignment="TopNear"/>
+        <Item244 Ref="246" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label243" LocationFloat="401, 792" SizeF="367, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="electronic copy. Detech &amp; return with payment. Pr favor, haga una marca" TextAlignment="TopNear"/>
+        <Item245 Ref="247" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label244" LocationFloat="400, 806" SizeF="381, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="en el encasillado si recibir a traves del correo una copia de su anual reporte" TextAlignment="TopNear"/>
+        <Item246 Ref="248" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label245" LocationFloat="138, 465" SizeF="88, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField102]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item239>
-        <Item240 Ref="242" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label239" LocationFloat="138, 428" SizeF="275, 17" Font="Arial Narrow, 8pt, style=Bold, Italic" ForeColor="255,0,0,255" Text="Read Indicator: ( E ) Indicates billed usage reflects" TextAlignment="TopNear"/>
-        <Item241 Ref="243" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label240" LocationFloat="138, 447" SizeF="275, 17" Font="Arial Narrow, 8pt, style=Bold, Italic" ForeColor="255,0,0,255" Text="an estimated reading." TextAlignment="TopNear"/>
-        <Item242 Ref="244" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label241" LocationFloat="138, 428" SizeF="275, 17" Font="Arial Narrow, 8pt, style=Bold, Italic" ForeColor="255,128,0,0" Text="Read Indicator: ( E ) Indicates billed usage reflects" TextAlignment="TopNear"/>
-        <Item243 Ref="245" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label242" LocationFloat="138, 447" SizeF="275, 17" Font="Arial Narrow, 8pt, style=Bold, Italic" ForeColor="255,128,0,0" Text="an estimated reading." TextAlignment="TopNear"/>
-        <Item244 Ref="246" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label243" LocationFloat="516, 67" SizeF="243, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="THE ANNUAL WATER QUALITY REPORTS ARE" TextAlignment="TopNear"/>
-        <Item245 Ref="247" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label244" LocationFloat="514, 83" SizeF="251, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="RELEASED BY JULY 1ST &amp; AVAILABLE ONLINE" TextAlignment="TopNear"/>
-        <Item246 Ref="248" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label245" LocationFloat="514, 97" SizeF="241, 15" Font="Arial, 8pt, style=Bold" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="WWW.GATEWAYDISTRICT.ORG/DOCUMENTS" TextAlignment="TopNear"/>
-        <Item247 Ref="249" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label246" LocationFloat="19, 89" SizeF="236, 15" Font="Calibri, 9pt, style=Bold" ForeColor="255,79,89,78" BackColor="255,255,255,255" Text="         Customer Care:  239-561-1313                 &#13;" TextAlignment="TopNear"/>
-        <Item248 Ref="250" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label247" LocationFloat="20, 102" SizeF="167, 15" Font="Calibri, 9pt, style=Bold" ForeColor="255,73,91,94" BackColor="255,255,255,255" Text="         After Hours:  239-561-1313&#13;" TextAlignment="TopNear"/>
-        <Item249 Ref="251" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label248" LocationFloat="585, 46" SizeF="183, 15" Font="Arial, 9pt, style=Bold" ForeColor="255,73,91,94" BackColor="255,255,255,255" Text="WWW.GATEWAYDISTRICT.ORG" TextAlignment="TopNear"/>
-        <Item250 Ref="252" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label249" LocationFloat="401, 778" SizeF="371, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="water quality report delivered to your home. You will continue to receive a" TextAlignment="TopNear"/>
-        <Item251 Ref="253" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label250" LocationFloat="415, 765" SizeF="345, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="Please check the box if you would prefer a paper copy of the annual" TextAlignment="TopNear"/>
-        <Item252 Ref="254" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label251" LocationFloat="401, 792" SizeF="367, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="electronic copy. Detech &amp; return with payment. Pr favor, haga una marca" TextAlignment="TopNear"/>
-        <Item253 Ref="255" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label252" LocationFloat="400, 806" SizeF="381, 15" Font="Arial Narrow, 8pt" ForeColor="255,2,117,83" BackColor="255,255,255,255" Text="en el encasillado si recibir a traves del correo una copia de su anual reporte" TextAlignment="TopNear"/>
-        <Item254 Ref="256" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label253" LocationFloat="138, 465" SizeF="88, 16" Font="Arial, 8pt, style=Bold" TextAlignment="TopNear">
+        </Item246>
+        <Item247 Ref="249" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label246" LocationFloat="501, 465" SizeF="123, 16" Font="Arial, 8pt, style=Bold" Text="PAYMENT PLAN" TextAlignment="TopFar"/>
+        <Item248 Ref="250" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label247" LocationFloat="664, 482" SizeF="96, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,0,0,255" TextAlignment="TopFar">
           <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField103]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item254>
-        <Item255 Ref="257" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label254" LocationFloat="501, 465" SizeF="123, 16" Font="Arial, 8pt, style=Bold" Text="PAYMENT PLAN" TextAlignment="TopFar"/>
-        <Item256 Ref="258" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label255" LocationFloat="664, 482" SizeF="96, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,0,0,255" TextAlignment="TopFar">
-          <ExpressionBindings>&lt;Item1 Ref="0" Expression="[calcField104]" PropertyName="Text" /&gt;</ExpressionBindings>
-        </Item256>
-        <Item257 Ref="259" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label256" LocationFloat="501, 482" SizeF="123, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,0,0,255" Text="DEPOSIT REFUND" TextAlignment="TopFar"/>
-        <Item258 Ref="260" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label257" LocationFloat="45, 61" SizeF="196, 15" Font="Calibri, 10pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="11922 FAIRWAY LAKES DR., STE # 1" TextAlignment="TopNear"/>
-        <Item259 Ref="261" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label258" LocationFloat="46, 74" SizeF="129, 15" Font="Calibri, 10pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="FORT MYERS, FL 33913" TextAlignment="TopNear"/>
+        </Item248>
+        <Item249 Ref="251" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label248" LocationFloat="501, 482" SizeF="123, 16" Font="Arial, 8pt, style=Bold" ForeColor="255,0,0,255" Text="DEPOSIT REFUND" TextAlignment="TopFar"/>
+        <Item250 Ref="252" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label249" LocationFloat="45, 61" SizeF="196, 15" Font="Calibri, 10pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="11922 FAIRWAY LAKES DR., STE # 1" TextAlignment="TopNear"/>
+        <Item251 Ref="253" ControlType="DevExpress.XtraReports.UI.XRLabel, DevExpress.XtraReports.v24.2" Name="Label250" LocationFloat="46, 74" SizeF="129, 15" Font="Calibri, 10pt, style=Bold" ForeColor="255,71,109,126" BackColor="255,255,255,255" Text="FORT MYERS, FL 33913" TextAlignment="TopNear"/>
       </Controls>
     </Item1>
   </Bands>
   <CalculatedFields>
-    <Item1 Ref="262" Name="calcField1" Expression="FormatString('{0:C}', [MinChrg03])"/>
-    <Item2 Ref="263" Name="calcField2" Expression="FormatString('{0:C}', [MinChrg01])"/>
-    <Item3 Ref="264" Name="calcField3" Expression="FormatString('{0:C}', [TOT_CHRG08]-[MIN_CHRG08])"/>
-    <Item4 Ref="265" Name="calcField4" Expression="FormatString('{0:C}', [MinChrg03])"/>
-    <Item5 Ref="266" Name="calcField5" Expression="FormatString('{0:C}', [TOT_CHRG03] + [TOT_CHRG07])"/>
-    <Item6 Ref="267" Name="calcField6" Expression="FormatString('{0:C}', [TOT_CHRG07]-[MIN_CHRG07])"/>
-    <Item7 Ref="268" Name="calcField7" Expression="FormatString('{0:C}', [TOT_CHRG02] + [TOT_CHRG09] + [TOT_CHRG15])"/>
-    <Item8 Ref="269" Name="calcField8" Expression="FormatString('{0:C}', [MinChrg02])"/>
-    <Item9 Ref="270" Name="calcField9" Expression="FormatString('{0:C}', [MinChrg01])"/>
-    <Item10 Ref="271" Name="calcField10" Expression="FormatString('{0:C}', [TOT_CHRG01]+ [TOT_CHRG14]+[TOT_CHRG08])"/>
-    <Item11 Ref="272" Name="calcField11" Expression="Trim([City])+' '+Trim([State])+'  '+Trim([Zip])"/>
-    <Item12 Ref="273" Name="calcField12" Expression="[Address2]"/>
-    <Item13 Ref="274" Name="calcField13" Expression="FormatString('{0:C}', [tot_net]+[dep_bal])"/>
-    <Item14 Ref="275" Name="calcField14" Expression="FormatString('{0:d}', [due_date])"/>
-    <Item15 Ref="276" Name="calcField15" Expression="[AcctNo]"/>
-    <Item16 Ref="277" Name="calcField16" Expression="FormatString('{0:d}', [billdate])"/>
-    <Item17 Ref="278" Name="calcField17" Expression="FormatString('{0:C}', [tot_net]+[dep_bal])"/>
-    <Item18 Ref="279" Name="calcField18" Expression="FormatString('{0:d}', [Billdate])"/>
-    <Item19 Ref="280" Name="calcField19" Expression="FormatString('{0:d}', [Billdate])"/>
-    <Item20 Ref="281" Name="calcField20" Expression="FormatString('{0:d}', [Billdate])"/>
-    <Item21 Ref="282" Name="calcField21" Expression="FormatString('{0:d}', [billdate])"/>
-    <Item22 Ref="283" Name="calcField22" Expression="[Service01]"/>
-    <Item23 Ref="284" Name="calcField23" Expression="[Service02]"/>
-    <Item24 Ref="285" Name="calcField24" Expression="[Service03]"/>
-    <Item25 Ref="286" Name="calcField25" Expression="FormatString('{0:d}', [PDate01])"/>
-    <Item26 Ref="287" Name="calcField26" Expression="FormatString('{0:d}', [CDate01])"/>
-    <Item27 Ref="288" Name="calcField27" Expression="FormatString('{0:d}', [PDate02])"/>
-    <Item28 Ref="289" Name="calcField28" Expression="FormatString('{0:d}', [CDate02])"/>
-    <Item29 Ref="290" Name="calcField29" Expression="FormatString('{0:d}', [PDate03])"/>
-    <Item30 Ref="291" Name="calcField30" Expression="FormatString('{0:d}', [CDate03])"/>
-    <Item31 Ref="292" Name="calcField31" Expression="ToStr([p_read01])"/>
-    <Item32 Ref="293" Name="calcField32" Expression="ToStr([cur_read01])"/>
-    <Item33 Ref="294" Name="calcField33" Expression="ToStr([p_read01])"/>
-    <Item34 Ref="295" Name="calcField34" Expression="ToStr([cur_read01])"/>
-    <Item35 Ref="296" Name="calcField35" Expression="ToStr([p_read03])"/>
-    <Item36 Ref="297" Name="calcField36" Expression="ToStr([cur_read03])"/>
-    <Item37 Ref="298" Name="calcField37" Expression="ToStr([busage01])"/>
-    <Item38 Ref="299" Name="calcField38" Expression="ToStr([busage02])"/>
-    <Item39 Ref="300" Name="calcField39" Expression="ToStr([busage03])"/>
-    <Item40 Ref="301" Name="calcField40" Expression="FormatString('{0:C}', [TOT_CHRG01]-[MIN_CHRG01])"/>
-    <Item41 Ref="302" Name="calcField41" Expression="FormatString('{0:C}', [TOT_CHRG01] + [TOT_CHRG14]+[TOT_CHRG08])"/>
-    <Item42 Ref="303" Name="calcField42" Expression="FormatString('{0:C}', [TOT_CHRG02]-[MIN_CHRG02])"/>
-    <Item43 Ref="304" Name="calcField43" Expression="FormatString('{0:C}', [MinChrg02])"/>
-    <Item44 Ref="305" Name="calcField44" Expression="FormatString('{0:C}', [TOT_CHRG02] + [TOT_CHRG09] + [TOT_CHRG15])"/>
-    <Item45 Ref="306" Name="calcField45" Expression="FormatString('{0:C}', [TOT_CHRG03]-[MIN_CHRG03])"/>
-    <Item46 Ref="307" Name="calcField46" Expression="FormatString('{0:C}', [TOT_CHRG03] + [TOT_CHRG07])"/>
-    <Item47 Ref="308" Name="calcField47" Expression="FormatString('{0:C}', [TotChrg06])"/>
-    <Item48 Ref="309" Name="calcField48" Expression="FormatString('{0:C}', [TotCur])"/>
-    <Item49 Ref="310" Name="calcField49" Expression="FormatString('{0:C}', [Prev_bal]+[for_disc]+[ret_chk]+[tot_pay]+[tot_misc]+[tot_pen]+[tot_int]+[dep_bal])"/>
-    <Item50 Ref="311" Name="calcField50" Expression="FormatString('{0:d}', [billdate])"/>
-    <Item51 Ref="312" Name="calcField51" Expression="FormatString('{0:d}', [due_date])"/>
-    <Item52 Ref="313" Name="calcField52" Expression="Trim([serv_id])"/>
-    <Item53 Ref="314" Name="calcField53" Expression="Trim([acct_no])"/>
-    <Item54 Ref="315" Name="calcField54" Expression="FormatString('{0:C}', [tot_net]+[dep_bal])"/>
-    <Item55 Ref="316" Name="calcField55" Expression="Trim([Number])+' '+Trim([Name])+'  '+Trim([Suffix])"/>
-    <Item56 Ref="317" Name="calcField56" Expression="ToStr([Prv01Dat01])+ToStr([Prv02Dat01])+ToStr([Prv03Dat01])+ToStr([Prv04Dat01])+ToStr([Prv05Dat01])+ToStr([Prv06Dat01])+ToStr([Prv07Dat01])+ToStr([Prv08Dat01])+ToStr([Prv09Dat01])+ToStr([Prv10Dat01])+ToStr([Prv11Dat01])+ToStr([Prv12Dat01])"/>
-    <Item57 Ref="318" Name="calcField57" Expression="[prv01use01]+[prv02use01]+[prv03use01]+[prv04use01]+[prv05use01]+[prv06use01]+[prv07use01]+[prv08use01]+[prv09use01]+[prv10use01]+[prv11use01]+[prv12use01]"/>
-    <Item58 Ref="319" Name="calcField58" Expression="Trim([First]+' ')+Trim([Last])+Iif(Not IsNullOrEmpty([Spouse]),Trim(' &amp; '+[Spouse]),'')"/>
-    <Item59 Ref="320" Name="calcField59" Expression="[Address1]"/>
-    <Item60 Ref="321" Name="calcField60" Expression="[Note]"/>
-    <Item61 Ref="322" Name="calcField61" Expression="Trim([City])+' '+Trim([State])+'  '+Trim([Zip])"/>
-    <Item62 Ref="323" Name="calcField62" Expression="[Address1]"/>
-    <Item63 Ref="324" Name="calcField63" Expression="'C/O '+[Care_Of]"/>
-    <Item64 Ref="325" Name="calcField64" Expression="[Address2]"/>
-    <Item65 Ref="326" Name="calcField65" Expression="Trim([City])+' '+Trim([State])+'  '+Trim([Zip])"/>
-    <Item66 Ref="327" Name="calcField66" Expression="FormatString('{0:d}', [PDate07])"/>
-    <Item67 Ref="328" Name="calcField67" Expression="FormatString('{0:d}', [CDate07])"/>
-    <Item68 Ref="329" Name="calcField68" Expression="ToStr([p_read07])"/>
-    <Item69 Ref="330" Name="calcField69" Expression="ToStr([cur_read07])"/>
-    <Item70 Ref="331" Name="calcField70" Expression="ToStr([busage07])"/>
-    <Item71 Ref="332" Name="calcField71" Expression="FormatString('{0:d}', [PDate08])"/>
-    <Item72 Ref="333" Name="calcField72" Expression="FormatString('{0:d}', [CDate08])"/>
-    <Item73 Ref="334" Name="calcField73" Expression="ToStr([p_read08])"/>
-    <Item74 Ref="335" Name="calcField74" Expression="ToStr([cur_read08])"/>
-    <Item75 Ref="336" Name="calcField75" Expression="ToStr([busage09])"/>
-    <Item76 Ref="337" Name="calcField76" Expression="FormatString('{0:C}', [TOT_CHRG09]-[MIN_CHRG09])"/>
-    <Item77 Ref="338" Name="calcField77" Expression="FormatString('{0:d}', [PDate08])"/>
-    <Item78 Ref="339" Name="calcField78" Expression="FormatString('{0:d}', [CDate08])"/>
-    <Item79 Ref="340" Name="calcField79" Expression="ToStr([p_read08])"/>
-    <Item80 Ref="341" Name="calcField80" Expression="ToStr([cur_read08])"/>
-    <Item81 Ref="342" Name="calcField81" Expression="ToStr([busage08])"/>
-    <Item82 Ref="343" Name="calcField82" Expression="Trim([Number])+' '+Trim([Name])+'  '+Trim([Suffix])"/>
-    <Item83 Ref="344" Name="calcField83" Expression="[TotAdj]"/>
-    <Item84 Ref="345" Name="calcField84" Expression="FormatString('{0:d}', [PDate14])"/>
-    <Item85 Ref="346" Name="calcField85" Expression="FormatString('{0:d}', [CDate14])"/>
-    <Item86 Ref="347" Name="calcField86" Expression="ToStr([p_read14])"/>
-    <Item87 Ref="348" Name="calcField87" Expression="ToStr([cur_read14])"/>
-    <Item88 Ref="349" Name="calcField88" Expression="ToStr([busage14])"/>
-    <Item89 Ref="350" Name="calcField89" Expression="FormatString('{0:d}', [PDate15])"/>
-    <Item90 Ref="351" Name="calcField90" Expression="FormatString('{0:d}', [CDate15])"/>
-    <Item91 Ref="352" Name="calcField91" Expression="ToStr([p_read14])"/>
-    <Item92 Ref="353" Name="calcField92" Expression="ToStr([cur_read14])"/>
-    <Item93 Ref="354" Name="calcField93" Expression="ToStr([busage15])"/>
-    <Item94 Ref="355" Name="calcField94" Expression="FormatString('{0:C}', [TOT_CHRG14]-[MIN_CHRG14])"/>
-    <Item95 Ref="356" Name="calcField95" Expression="FormatString('{0:C}', [TOT_CHRG15]-[MIN_CHRG15])"/>
-    <Item96 Ref="357" Name="calcField96" Expression="[prv01use14]+[prv02use14]+[prv03use14]+[prv04use14]+[prv05use14]+[prv06use14]+[prv07use14]+[prv08use14]+[prv09use14]+[prv10use14]+[prv11use14]+[prv12use14]"/>
-    <Item97 Ref="358" Name="calcField97" Expression="ToStr([Prv01Dat14])+ToStr([Prv02Dat14])+ToStr([Prv03Dat14])+ToStr([Prv04Dat14])+ToStr([Prv05Dat14])+ToStr([Prv06Dat14])+ToStr([Prv07Dat14])+ToStr([Prv08Dat14])+ToStr([Prv09Dat14])+ToStr([Prv10Dat14])+ToStr([Prv11Dat14])+ToStr([Prv12Dat14])"/>
-    <Item98 Ref="359" Name="calcField98" Expression="[prv01use08]+[prv02use08]+[prv03use08]+[prv04use08]+[prv05use08]+[prv06use08]+[prv07use08]+[prv08use08]+[prv09use08]+[prv10use08]+[prv11use08]+[prv12use08]"/>
-    <Item99 Ref="360" Name="calcField99" Expression="ToStr([Prv01Dat08])+ToStr([Prv02Dat08])+ToStr([Prv03Dat08])+ToStr([Prv04Dat08])+ToStr([Prv05Dat08])+ToStr([Prv06Dat08])+ToStr([Prv07Dat08])+ToStr([Prv08Dat08])+ToStr([Prv09Dat08])+ToStr([Prv10Dat08])+ToStr([Prv11Dat08])+ToStr([Prv12Dat08])"/>
-    <Item100 Ref="361" Name="calcField100" Expression="'142'+' ' +Trim([acct_no])+ PadLeft(Trim(ToStr([tot_net]*100)),8,'0')+Replace(FormatString('{0:d}', [billdate]), '/', '')"/>
-    <Item101 Ref="362" Name="calcField101" Expression="[Readcode01]"/>
-    <Item102 Ref="363" Name="calcField102" Expression="[Readcode03]"/>
-    <Item103 Ref="364" Name="calcField103" Expression="[Service06]"/>
-    <Item104 Ref="365" Name="calcField104" Expression="FormatString('{0:C}', [TotDepx])"/>
+    <Item1 Ref="254" Name="calcField1" Expression="FormatString('{0:C}', [MinChrg03])"/>
+    <Item2 Ref="255" Name="calcField2" Expression="FormatString('{0:C}', [MinChrg01])"/>
+    <Item3 Ref="256" Name="calcField3" Expression="FormatString('{0:C}', [TOT_CHRG08]-[MIN_CHRG08])"/>
+    <Item4 Ref="257" Name="calcField4" Expression="FormatString('{0:C}', [MinChrg03])"/>
+    <Item5 Ref="258" Name="calcField5" Expression="FormatString('{0:C}', [TOT_CHRG03] + [TOT_CHRG07])"/>
+    <Item6 Ref="259" Name="calcField6" Expression="FormatString('{0:C}', [TOT_CHRG07]-[MIN_CHRG07])"/>
+    <Item7 Ref="260" Name="calcField7" Expression="FormatString('{0:C}', [TOT_CHRG02] + [TOT_CHRG09] + [TOT_CHRG15])"/>
+    <Item8 Ref="261" Name="calcField8" Expression="FormatString('{0:C}', [MinChrg02])"/>
+    <Item9 Ref="262" Name="calcField9" Expression="FormatString('{0:C}', [MinChrg01])"/>
+    <Item10 Ref="263" Name="calcField10" Expression="FormatString('{0:C}', [TOT_CHRG01]+ [TOT_CHRG14]+[TOT_CHRG08])"/>
+    <Item11 Ref="264" Name="calcField11" Expression="Trim([City])+' '+Trim([State])+'  '+Trim([Zip])"/>
+    <Item12 Ref="265" Name="calcField12" Expression="[Address2]"/>
+    <Item13 Ref="266" Name="calcField13" Expression="FormatString('{0:C}', [tot_net]+[dep_bal])"/>
+    <Item14 Ref="267" Name="calcField14" Expression="FormatString('{0:d}', [due_date])"/>
+    <Item15 Ref="268" Name="calcField15" Expression="[AcctNo]"/>
+    <Item16 Ref="269" Name="calcField16" Expression="FormatString('{0:d}', [billdate])"/>
+    <Item17 Ref="270" Name="calcField17" Expression="FormatString('{0:C}', [tot_net]+[dep_bal])"/>
+    <Item18 Ref="271" Name="calcField18" Expression="FormatString('{0:d}', [Billdate])"/>
+    <Item19 Ref="272" Name="calcField19" Expression="FormatString('{0:d}', [Billdate])"/>
+    <Item20 Ref="273" Name="calcField20" Expression="FormatString('{0:d}', [Billdate])"/>
+    <Item21 Ref="274" Name="calcField21" Expression="FormatString('{0:d}', [billdate])"/>
+    <Item22 Ref="275" Name="calcField22" Expression="[Service01]"/>
+    <Item23 Ref="276" Name="calcField23" Expression="[Service02]"/>
+    <Item24 Ref="277" Name="calcField24" Expression="[Service03]"/>
+    <Item25 Ref="278" Name="calcField25" Expression="FormatString('{0:d}', [PDate01])"/>
+    <Item26 Ref="279" Name="calcField26" Expression="FormatString('{0:d}', [CDate01])"/>
+    <Item27 Ref="280" Name="calcField27" Expression="FormatString('{0:d}', [PDate02])"/>
+    <Item28 Ref="281" Name="calcField28" Expression="FormatString('{0:d}', [CDate02])"/>
+    <Item29 Ref="282" Name="calcField29" Expression="FormatString('{0:d}', [PDate03])"/>
+    <Item30 Ref="283" Name="calcField30" Expression="FormatString('{0:d}', [CDate03])"/>
+    <Item31 Ref="284" Name="calcField31" Expression="ToStr([p_read01])"/>
+    <Item32 Ref="285" Name="calcField32" Expression="ToStr([cur_read01])"/>
+    <Item33 Ref="286" Name="calcField33" Expression="ToStr([p_read01])"/>
+    <Item34 Ref="287" Name="calcField34" Expression="ToStr([cur_read01])"/>
+    <Item35 Ref="288" Name="calcField35" Expression="ToStr([p_read03])"/>
+    <Item36 Ref="289" Name="calcField36" Expression="ToStr([cur_read03])"/>
+    <Item37 Ref="290" Name="calcField37" Expression="ToStr([busage01])"/>
+    <Item38 Ref="291" Name="calcField38" Expression="ToStr([busage02])"/>
+    <Item39 Ref="292" Name="calcField39" Expression="ToStr([busage03])"/>
+    <Item40 Ref="293" Name="calcField40" Expression="FormatString('{0:C}', [TOT_CHRG01]-[MIN_CHRG01])"/>
+    <Item41 Ref="294" Name="calcField41" Expression="FormatString('{0:C}', [TOT_CHRG01] + [TOT_CHRG14]+[TOT_CHRG08])"/>
+    <Item42 Ref="295" Name="calcField42" Expression="FormatString('{0:C}', [TOT_CHRG02]-[MIN_CHRG02])"/>
+    <Item43 Ref="296" Name="calcField43" Expression="FormatString('{0:C}', [MinChrg02])"/>
+    <Item44 Ref="297" Name="calcField44" Expression="FormatString('{0:C}', [TOT_CHRG03]-[MIN_CHRG03])"/>
+    <Item45 Ref="298" Name="calcField45" Expression="FormatString('{0:C}', [TOT_CHRG03] + [TOT_CHRG07])"/>
+    <Item46 Ref="299" Name="calcField46" Expression="FormatString('{0:C}', [TotChrg06])"/>
+    <Item47 Ref="300" Name="calcField47" Expression="FormatString('{0:C}', [TotCur])"/>
+    <Item48 Ref="301" Name="calcField48" Expression="FormatString('{0:C}', [Prev_bal]+[for_disc]+[ret_chk]+[tot_pay]+[tot_misc]+[tot_pen]+[tot_int]+[dep_bal])"/>
+    <Item49 Ref="302" Name="calcField49" Expression="FormatString('{0:d}', [billdate])"/>
+    <Item50 Ref="303" Name="calcField50" Expression="FormatString('{0:d}', [due_date])"/>
+    <Item51 Ref="304" Name="calcField51" Expression="Trim([serv_id])"/>
+    <Item52 Ref="305" Name="calcField52" Expression="Trim([acct_no])"/>
+    <Item53 Ref="306" Name="calcField53" Expression="FormatString('{0:C}', [tot_net]+[dep_bal])"/>
+    <Item54 Ref="307" Name="calcField54" Expression="Trim([Number])+' '+Trim([Name])+'  '+Trim([Suffix])"/>
+    <Item55 Ref="308" Name="calcField55" Expression="ToStr([Prv01Dat01])+ToStr([Prv02Dat01])+ToStr([Prv03Dat01])+ToStr([Prv04Dat01])+ToStr([Prv05Dat01])+ToStr([Prv06Dat01])+ToStr([Prv07Dat01])+ToStr([Prv08Dat01])+ToStr([Prv09Dat01])+ToStr([Prv10Dat01])+ToStr([Prv11Dat01])+ToStr([Prv12Dat01])"/>
+    <Item56 Ref="309" Name="calcField56" Expression="[prv01use01]+[prv02use01]+[prv03use01]+[prv04use01]+[prv05use01]+[prv06use01]+[prv07use01]+[prv08use01]+[prv09use01]+[prv10use01]+[prv11use01]+[prv12use01]"/>
+    <Item57 Ref="310" Name="calcField57" Expression="Trim([First]+' ')+Trim([Last])+Iif(Not IsNullOrEmpty([Spouse]),Trim(' &amp; '+[Spouse]),'')"/>
+    <Item58 Ref="311" Name="calcField58" Expression="[Address1]"/>
+    <Item59 Ref="312" Name="calcField59" Expression="[Note]"/>
+    <Item60 Ref="313" Name="calcField60" Expression="Trim([City])+' '+Trim([State])+'  '+Trim([Zip])"/>
+    <Item61 Ref="314" Name="calcField61" Expression="[Address1]"/>
+    <Item62 Ref="315" Name="calcField62" Expression="'C/O '+[Care_Of]"/>
+    <Item63 Ref="316" Name="calcField63" Expression="[Address2]"/>
+    <Item64 Ref="317" Name="calcField64" Expression="Trim([City])+' '+Trim([State])+'  '+Trim([Zip])"/>
+    <Item65 Ref="318" Name="calcField65" Expression="FormatString('{0:d}', [PDate07])"/>
+    <Item66 Ref="319" Name="calcField66" Expression="FormatString('{0:d}', [CDate07])"/>
+    <Item67 Ref="320" Name="calcField67" Expression="ToStr([p_read07])"/>
+    <Item68 Ref="321" Name="calcField68" Expression="ToStr([cur_read07])"/>
+    <Item69 Ref="322" Name="calcField69" Expression="ToStr([busage07])"/>
+    <Item70 Ref="323" Name="calcField70" Expression="FormatString('{0:d}', [PDate08])"/>
+    <Item71 Ref="324" Name="calcField71" Expression="FormatString('{0:d}', [CDate08])"/>
+    <Item72 Ref="325" Name="calcField72" Expression="ToStr([p_read08])"/>
+    <Item73 Ref="326" Name="calcField73" Expression="ToStr([cur_read08])"/>
+    <Item74 Ref="327" Name="calcField74" Expression="ToStr([busage09])"/>
+    <Item75 Ref="328" Name="calcField75" Expression="FormatString('{0:C}', [TOT_CHRG09]-[MIN_CHRG09])"/>
+    <Item76 Ref="329" Name="calcField76" Expression="FormatString('{0:d}', [PDate08])"/>
+    <Item77 Ref="330" Name="calcField77" Expression="FormatString('{0:d}', [CDate08])"/>
+    <Item78 Ref="331" Name="calcField78" Expression="ToStr([p_read08])"/>
+    <Item79 Ref="332" Name="calcField79" Expression="ToStr([cur_read08])"/>
+    <Item80 Ref="333" Name="calcField80" Expression="ToStr([busage08])"/>
+    <Item81 Ref="334" Name="calcField81" Expression="Trim([Number])+' '+Trim([Name])+'  '+Trim([Suffix])"/>
+    <Item82 Ref="335" Name="calcField82" Expression="[TotAdj]"/>
+    <Item83 Ref="336" Name="calcField83" Expression="FormatString('{0:d}', [PDate14])"/>
+    <Item84 Ref="337" Name="calcField84" Expression="FormatString('{0:d}', [CDate14])"/>
+    <Item85 Ref="338" Name="calcField85" Expression="ToStr([p_read14])"/>
+    <Item86 Ref="339" Name="calcField86" Expression="ToStr([cur_read14])"/>
+    <Item87 Ref="340" Name="calcField87" Expression="ToStr([busage14])"/>
+    <Item88 Ref="341" Name="calcField88" Expression="FormatString('{0:d}', [PDate15])"/>
+    <Item89 Ref="342" Name="calcField89" Expression="FormatString('{0:d}', [CDate15])"/>
+    <Item90 Ref="343" Name="calcField90" Expression="ToStr([p_read14])"/>
+    <Item91 Ref="344" Name="calcField91" Expression="ToStr([cur_read14])"/>
+    <Item92 Ref="345" Name="calcField92" Expression="ToStr([busage15])"/>
+    <Item93 Ref="346" Name="calcField93" Expression="FormatString('{0:C}', [TOT_CHRG14]-[MIN_CHRG14])"/>
+    <Item94 Ref="347" Name="calcField94" Expression="FormatString('{0:C}', [TOT_CHRG15]-[MIN_CHRG15])"/>
+    <Item95 Ref="348" Name="calcField95" Expression="[prv01use14]+[prv02use14]+[prv03use14]+[prv04use14]+[prv05use14]+[prv06use14]+[prv07use14]+[prv08use14]+[prv09use14]+[prv10use14]+[prv11use14]+[prv12use14]"/>
+    <Item96 Ref="349" Name="calcField96" Expression="ToStr([Prv01Dat14])+ToStr([Prv02Dat14])+ToStr([Prv03Dat14])+ToStr([Prv04Dat14])+ToStr([Prv05Dat14])+ToStr([Prv06Dat14])+ToStr([Prv07Dat14])+ToStr([Prv08Dat14])+ToStr([Prv09Dat14])+ToStr([Prv10Dat14])+ToStr([Prv11Dat14])+ToStr([Prv12Dat14])"/>
+    <Item97 Ref="350" Name="calcField97" Expression="[prv01use08]+[prv02use08]+[prv03use08]+[prv04use08]+[prv05use08]+[prv06use08]+[prv07use08]+[prv08use08]+[prv09use08]+[prv10use08]+[prv11use08]+[prv12use08]"/>
+    <Item98 Ref="351" Name="calcField98" Expression="ToStr([Prv01Dat08])+ToStr([Prv02Dat08])+ToStr([Prv03Dat08])+ToStr([Prv04Dat08])+ToStr([Prv05Dat08])+ToStr([Prv06Dat08])+ToStr([Prv07Dat08])+ToStr([Prv08Dat08])+ToStr([Prv09Dat08])+ToStr([Prv10Dat08])+ToStr([Prv11Dat08])+ToStr([Prv12Dat08])"/>
+    <Item99 Ref="352" Name="calcField99" Expression="'142'+' ' +Trim([acct_no])+ PadLeft(Trim(ToStr([tot_net]*100)),8,'0')+Replace(FormatString('{0:d}', [billdate]), '/', '')"/>
+    <Item100 Ref="353" Name="calcField100" Expression="[Readcode01]"/>
+    <Item101 Ref="354" Name="calcField101" Expression="[Readcode03]"/>
+    <Item102 Ref="355" Name="calcField102" Expression="[Service06]"/>
+    <Item103 Ref="356" Name="calcField103" Expression="FormatString('{0:C}', [TotDepx])"/>
   </CalculatedFields>
 </XtraReportsLayoutSerializer>

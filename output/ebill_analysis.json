@@ -1,8 +1,8 @@
 {
   "report_name": "ebill",
   "source_json": "temp\\ebill.json",
-  "controls_count": 259,
-  "calculated_fields_count": 104,
+  "controls_count": 251,
+  "calculated_fields_count": 103,
   "calculated_fields": [
     {
       "name": "calcField1",

@@ -215,6 +215,27 @@ def sort_controls_for_layering(controls):
 **Cause**: Incorrect Z-order in XML
 **Solution**: Sort controls by layer before generating XML
 
+### Issue 7: Duplicate/overlapping text
+**Cause**: FoxPro FRX files often contain duplicate entries for the same visual element
+**Solution**: Deduplicate controls based on position and expression before generating XML
+
+```python
+def deduplicate_controls(controls):
+    seen = set()
+    deduplicated = []
+    for control in controls:
+        pos = control.get("position", {})
+        top = int((pos.get("top_fru", 0) or 0) / 100)
+        left = int((pos.get("left_fru", 0) or 0) / 100)
+        expr = (control.get("expression", "") or "").strip()[:30]
+        objtype = control.get("objtype", 0)
+        key = (objtype, top, left, expr)
+        if key not in seen:
+            seen.add(key)
+            deduplicated.append(control)
+    return deduplicated
+```
+
 ---
 
 ## REPX File Structure

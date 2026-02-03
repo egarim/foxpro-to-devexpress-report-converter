@@ -264,12 +264,39 @@ class FrxToRepxConverter:
         
         return sorted(controls, key=lambda c: layer_order.get(c.get("objtype", 5), 3))
     
+    def _deduplicate_controls(self, controls: list) -> list:
+        """
+        Remove duplicate controls that have nearly identical positions and expressions.
+        FoxPro FRX files often contain duplicate entries for the same visual element.
+        """
+        seen = set()
+        deduplicated = []
+        
+        for control in controls:
+            pos = control.get("position", {})
+            top = int((pos.get("top_fru", 0) or 0) / 100)  # Round to nearest unit
+            left = int((pos.get("left_fru", 0) or 0) / 100)
+            expr = (control.get("expression", "") or "").strip()[:30]  # First 30 chars
+            objtype = control.get("objtype", 0)
+            
+            # Create a key for deduplication
+            key = (objtype, top, left, expr)
+            
+            if key not in seen:
+                seen.add(key)
+                deduplicated.append(control)
+        
+        return deduplicated
+    
     def _add_controls_to_band(self, band_elem: etree.Element, controls: list):
         """Add controls to a band element with proper layering."""
         controls_elem = etree.SubElement(band_elem, "Controls")
         
+        # Deduplicate controls first
+        unique_controls = self._deduplicate_controls(controls)
+        
         # Sort controls for proper Z-order
-        sorted_controls = self._sort_controls_for_layering(controls)
+        sorted_controls = self._sort_controls_for_layering(unique_controls)
         
         idx = 1
         for control in sorted_controls:

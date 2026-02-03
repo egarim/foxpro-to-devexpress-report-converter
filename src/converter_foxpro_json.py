@@ -240,22 +240,34 @@ class FoxProJsonConverter:
         # Expression/Text
         expression = control.get("expression", "")
         if expression and objtype == 8:  # Field
-            # Translate FoxPro expression to DevExpress
-            translated = self.translator.translate(expression)
-            
-            if translated:
-                # Create calculated field
-                field_name = f"calcField{len(self.calculated_fields) + 1}"
-                self.calculated_fields.append({
-                    "name": field_name,
-                    "expression": translated,
-                    "original": expression
-                })
+            # Check if it's a string literal (starts and ends with quotes)
+            expr_stripped = expression.strip()
+            if (expr_stripped.startswith('"') and expr_stripped.endswith('"')) or \
+               (expr_stripped.startswith("'") and expr_stripped.endswith("'")):
+                # Static text - just use the string content
+                text = expr_stripped[1:-1]  # Remove quotes
+                ctrl_elem.set("Text", text)
+            else:
+                # Translate FoxPro expression to DevExpress
+                translated = self.translator.translate(expression)
                 
-                # Bind control to calculated field
-                etree.SubElement(ctrl_elem, "ExpressionBindings").text = (
-                    f'<Item1 Ref="0" Expression="[{field_name}]" PropertyName="Text" />'
-                )
+                if translated and not translated.startswith('"'):
+                    # Create calculated field
+                    field_name = f"calcField{len(self.calculated_fields) + 1}"
+                    self.calculated_fields.append({
+                        "name": field_name,
+                        "expression": translated,
+                        "original": expression
+                    })
+                    
+                    # Bind control to calculated field
+                    etree.SubElement(ctrl_elem, "ExpressionBindings").text = (
+                        f'<Item1 Ref="0" Expression="[{field_name}]" PropertyName="Text" />'
+                    )
+                elif translated:
+                    # Translated to a string literal
+                    text = translated.strip('"\'')
+                    ctrl_elem.set("Text", text)
         elif expression:
             # Static text (Label)
             # Remove quotes from string literals

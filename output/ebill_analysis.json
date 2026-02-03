@@ -1,0 +1,108 @@
+{
+  "report_name": "ebill",
+  "source_json": "temp\\ebill.json",
+  "controls_count": 259,
+  "calculated_fields_count": 104,
+  "calculated_fields": [
+    {
+      "name": "calcField1",
+      "expression": "FormatString('{0:C}', [MinChrg03])",
+      "original": "TRANSFORM(MIN_CHRG03,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField2",
+      "expression": "FormatString('{0:C}', [MinChrg01])",
+      "original": "TRANSFORM(MIN_CHRG01,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField3",
+      "expression": "FormatString('{0:C}', [TOT_CHRG08]-[MIN_CHRG08])",
+      "original": "TRANSFORM(TOT_CHRG08-MIN_CHRG08,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField4",
+      "expression": "FormatString('{0:C}', [MinChrg03])",
+      "original": "TRANSFORM(MIN_CHRG03,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField5",
+      "expression": "FormatString('{0:C}', [TOT_CHRG03] + [TOT_CHRG07])",
+      "original": "TRANSFORM(TOT_CHRG03 + TOT_CHRG07,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField6",
+      "expression": "FormatString('{0:C}', [TOT_CHRG07]-[MIN_CHRG07])",
+      "original": "TRANSFORM(TOT_CHRG07-MIN_CHRG07,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField7",
+      "expression": "FormatString('{0:C}', [TOT_CHRG02] + [TOT_CHRG09] + [TOT_CHRG15])",
+      "original": "TRANSFORM(TOT_CHRG02 + TOT_CHRG09 + TOT_CHRG15,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField8",
+      "expression": "FormatString('{0:C}', [MinChrg02])",
+      "original": "TRANSFORM(MIN_CHRG02,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField9",
+      "expression": "FormatString('{0:C}', [MinChrg01])",
+      "original": "TRANSFORM(MIN_CHRG01,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField10",
+      "expression": "FormatString('{0:C}', [TOT_CHRG01]+ [TOT_CHRG14]+[TOT_CHRG08])",
+      "original": "TRANSFORM(TOT_CHRG01+ TOT_CHRG14+TOT_CHRG08,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField11",
+      "expression": "Trim([City])+' '+Trim([State])+'  '+Trim([Zip])",
+      "original": "alltrim(customer.CITY)+' '+alltrim(customer.STATE)+'  '+alltrim(customer.ZIP)"
+    },
+    {
+      "name": "calcField12",
+      "expression": "[Address2]",
+      "original": "customer.address2"
+    },
+    {
+      "name": "calcField13",
+      "expression": "FormatString('{0:C}', [tot_net]+[dep_bal])",
+      "original": "TRANSFORM(tot_net+dep_bal,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField14",
+      "expression": "FormatString('{0:d}', [due_date])",
+      "original": "dtoc(due_date)"
+    },
+    {
+      "name": "calcField15",
+      "expression": "[AcctNo]",
+      "original": "acct_no"
+    },
+    {
+      "name": "calcField16",
+      "expression": "FormatString('{0:d}', [billdate])",
+      "original": "dtoc(billdate)"
+    },
+    {
+      "name": "calcField17",
+      "expression": "FormatString('{0:C}', [tot_net]+[dep_bal])",
+      "original": "TRANSFORM(tot_net+dep_bal,'$$$,$$$,$$$.##')"
+    },
+    {
+      "name": "calcField18",
+      "expression": "FormatString('{0:d}', [Billdate])",
+      "original": "shortdate(billdate)"
+    },
+    {
+      "name": "calcField19",
+      "expression": "FormatString('{0:d}', [Billdate])",
+      "original": "shortdate(billdate)"
+    },
+    {
+      "name": "calcField20",
+      "expression": "FormatString('{0:d}', [Billdate])",
+      "original": "SHORTDATE(billdate)"
+    }
+  ]
+}

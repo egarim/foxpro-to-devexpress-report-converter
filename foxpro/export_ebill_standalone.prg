@@ -12,8 +12,8 @@
 *!*********************************************************************
 
 * Configuration - hardcoded paths
-#DEFINE INPUT_FILE  "C:\Users\joche\source\repos\fwdcusifoxprocrystalreportstodevexpress\FoxPro_Ebill.frt"
-#DEFINE OUTPUT_FILE "C:\Users\joche\source\repos\fwdcusifoxprocrystalreportstodevexpress\temp\FoxPro_Ebill.json"
+#DEFINE INPUT_FILE  "C:\Users\joche\source\repos\fwdcusifoxprocrystalreportstodevexpress\ebill.frx"
+#DEFINE OUTPUT_FILE "C:\Users\joche\source\repos\fwdcusifoxprocrystalreportstodevexpress\temp\ebill.json"
 #DEFINE TEMP_FOLDER "C:\Users\joche\source\repos\fwdcusifoxprocrystalreportstodevexpress\temp"
 
 CLEAR

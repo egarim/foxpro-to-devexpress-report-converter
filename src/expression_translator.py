@@ -167,6 +167,10 @@ class ExpressionTranslator:
         if expr.startswith('"') and expr.endswith('"'):
             return expr  # Keep as-is for DevExpress
         
+        # Handle comma-separated string concatenation (FoxPro syntax)
+        # alltrim(a),alltrim(b) -> Trim([a])+Trim([b])
+        expr = self._translate_comma_concat(expr)
+        
         # Handle simple field references
         if self._is_simple_field(expr):
             return self._translate_field(expr)
@@ -198,7 +202,91 @@ class ExpressionTranslator:
         # Handle operators
         result = self._translate_operators(result)
         
+        # Convert double quotes to single quotes (DevExpress uses single quotes)
+        result = self._convert_quotes(result)
+        
         return result
+    
+    def _convert_quotes(self, expr: str) -> str:
+        """
+        Convert double-quoted strings to single-quoted strings.
+        DevExpress uses single quotes for string literals.
+        """
+        # Replace "string" with 'string'
+        # Handle escaped quotes inside
+        result = []
+        i = 0
+        while i < len(expr):
+            if expr[i] == '"':
+                # Find the closing quote
+                j = i + 1
+                while j < len(expr):
+                    if expr[j] == '"':
+                        if j + 1 < len(expr) and expr[j+1] == '"':
+                            # Escaped double quote
+                            j += 2
+                        else:
+                            break
+                    else:
+                        j += 1
+                # Extract the string content
+                content = expr[i+1:j]
+                # Convert escaped double quotes to escaped single quotes
+                content = content.replace('""', "''")
+                result.append("'")
+                result.append(content)
+                result.append("'")
+                i = j + 1
+            else:
+                result.append(expr[i])
+                i += 1
+        return ''.join(result)
+    
+    def _translate_comma_concat(self, expr: str) -> str:
+        """
+        Translate FoxPro comma-based string concatenation.
+        In FoxPro, commas outside of function arguments can act as string concat.
+        Example: alltrim(a),alltrim(b) -> Trim([a])+Trim([b])
+        """
+        # First check if there are commas at the top level (outside parentheses)
+        paren_depth = 0
+        has_top_level_comma = False
+        
+        for c in expr:
+            if c == '(':
+                paren_depth += 1
+            elif c == ')':
+                paren_depth -= 1
+            elif c == ',' and paren_depth == 0:
+                has_top_level_comma = True
+                break
+        
+        if not has_top_level_comma:
+            return expr
+        
+        # Split by top-level commas and join with +
+        parts = []
+        current = []
+        paren_depth = 0
+        
+        for c in expr:
+            if c == '(':
+                paren_depth += 1
+                current.append(c)
+            elif c == ')':
+                paren_depth -= 1
+                current.append(c)
+            elif c == ',' and paren_depth == 0:
+                parts.append(''.join(current).strip())
+                current = []
+            else:
+                current.append(c)
+        
+        if current:
+            parts.append(''.join(current).strip())
+        
+        # Join with + for DevExpress string concat
+        return '+'.join(parts)
     
     def _is_simple_field(self, expr: str) -> bool:
         """Check if expression is a simple field reference"""

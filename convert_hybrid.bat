@@ -87,7 +87,7 @@ if not exist "%PYTHON_PATH%" (
     SET PYTHON_PATH=python
 )
 
-%PYTHON_PATH% src\converter_foxpro_json.py "%JSON_FILE%" "%OUTPUT_FOLDER%"
+%PYTHON_PATH% src\converter_frx_v3.py "%JSON_FILE%" "%OUTPUT_FOLDER%"
 
 if errorlevel 1 (
     echo ERROR: Python conversion failed
